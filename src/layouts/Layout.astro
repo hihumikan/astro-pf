@@ -1,16 +1,18 @@
 ---
+import Footer from "../components/Footer/Footer.astro";
 import Header from "../components/Header/Header.astro";
 import MainHead from "../components/Header/MainHead.astro";
-import "../styles/global.css";
 ---
 
 <!DOCTYPE html>
 <html lang="ja">
   <head>
     <MainHead title="qqey.net" />
-    <Header />
   </head>
+
   <body>
+    <Header />
     <slot />
+    <Footer />
   </body>
 </html>
