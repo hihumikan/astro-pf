@@ -1,7 +1,8 @@
+---
+name: Pull Request Opened
 on:
   pull_request:
     types: [opened]
-name: Pull Request
 jobs:
   assignAuthor:
     name: Assign author to PR
@@ -9,3 +10,10 @@ jobs:
     steps:
       - name: Assign author to PR
         uses: technote-space/assign-author@v1
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/labeler@v4
+        with:
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+          sync-labels: true
