@@ -2,6 +2,8 @@
 import Footer from "../components/Footer/Footer.astro";
 import Header from "../components/Header/Header.astro";
 import MainHead from "../components/Header/MainHead.astro";
+
+const { frontmatter } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -12,7 +14,24 @@ import MainHead from "../components/Header/MainHead.astro";
 
   <body>
     <Header />
-    <slot />
+
+    <div
+      class="relative max-w-md mx-auto md:max-w-2xl min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-xl mt-16"
+    >
+      <div class="px-6">
+        <div class="flex flex-wrap justify-center"></div>
+        <div class="text-center mt-2">
+          <h3 class="text-2xl text-slate-700 font-bold leading-normal mb-1">
+            <title>{frontmatter.title}</title>
+          </h3>
+
+          <h1>{frontmatter.title} by {frontmatter.author}</h1>
+          <slot />
+          <p>Written on: {frontmatter.date}</p>
+          <slot />
+        </div>
+      </div>
+    </div>
     <Footer />
   </body>
 </html>
