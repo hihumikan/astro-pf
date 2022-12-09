@@ -24,21 +24,19 @@
   <link rel="shortcut icon" href="" type="image/vnd.microsoft.icon" />
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
+  <!-- https://flowbite.com/ -->
   <link
     rel="stylesheet"
     href="https://unpkg.com/flowbite@latest/dist/flowbite.min.css"
   />
   <script src="https://unpkg.com/flowbite@latest/dist/flowbite.js"></script>
-  <script>
-    // On page load or when changing themes, best to add inline in `head` to avoid FOUC
-    if (
-      localStorage.getItem("color-theme") === "dark" ||
-      (!("color-theme" in localStorage) &&
-        window.matchMedia("(prefers-color-scheme: dark)").matches)
-    ) {
-      document.documentElement.classList.add("dark");
-    } else {
-      document.documentElement.classList.remove("dark");
-    }
-  </script>
+  <!--https://github.com/Auroratide/typewritten-text -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css"
+  />
+  <script
+    type="module"
+    src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"
+  ></script>
 </head>
