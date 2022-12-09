@@ -23,23 +23,11 @@ Volare / 学生エンジニア団体 Volare
 
 STECH / STECH - 学生と企業のエンジニアを技術で繋ぐコミュニティ
 
-## SNS/Links
-
-Twitter: @mikan_54951
-
-GitHub: @hihumikan
-
-keybase: @hihumikan
-
-Mail: a[at]qqey.net
-
-Scrapbox: hihumikan
-
-SSH: <https://github.com/hihumikan.keys>
-
-HatenaBlog: mixb
-
 ## Skill
+
+## IT
+
+何かできると思う。
 
 ### License
 
