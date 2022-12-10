@@ -11,23 +11,21 @@ hihumikan / mikan_54951
 
 ## Introduction
 
-フロントエンド分野からサーバーサイドの開発、インフラの勉強まで幅広く手を付けています。
+2020年4月からWeb関連の勉強をしています。
 
-最近はプライベート／パブリッククラウドの運用や、SREにも興味があります。
+最近はプライベート／パブリッククラウドの運用や、SREに興味があります。
 
 ## Affiliation
 
 愛知工業大学 システム工学研究会
 
-Volare / 学生エンジニア団体 Volare
-
-STECH / STECH - 学生と企業のエンジニアを技術で繋ぐコミュニティ
+STECH - 学生と企業のエンジニアを技術で繋ぐコミュニティ
 
 ## Skill
 
 ### IT
 
-何かできると思う。
+[Lapras](https://lapras.com/public/NF3FKZY)からご確認ください。
 
 ### License
 
@@ -45,18 +43,16 @@ STECH / STECH - 学生と企業のエンジニアを技術で繋ぐコミュニ�
 
 ## イベント登壇
 
-2022/04/05 キャリアセレクト:【聞き専も大歓迎】テーマ自由のLT会！オンラインでお気軽に参加しませんか？
+2022/04/05 [キャリアセレクト:【聞き専も大歓迎】テーマ自由のLT会！オンラインでお気軽に参加しませんか？](https://careerselect-studygroup.connpass.com/event/242576/)
 
-2022/05/07 学生団体LT会(Online) 2022/5/7
+2022/05/07 [学生団体LT会(Online)](https://sysken.connpass.com/event/243739/)
 
-2022/06/25 技育博
+2022/06/25 [技育博](https://talent.supporterz.jp/geekhaku/2022/)
 
-2022/09/27 キャリアセレクト: 【エンジニアを目指す学生限定】 サマーインターン成果発表会
+2022/09/27 [キャリアセレクト: 【エンジニアを目指す学生限定】 サマーインターン成果発表会](https://careerselect-studygroup.connpass.com/event/258392/)
 
 ## イベント主催
 
-2021/06/12 Vue.js 勉強会
+2021/06/12 [Vue.js 勉強会](https://pages.qqey.net/)
 
-2022/05/07 学生団体LT会(Online) 2022/5/7
-
-2022/11 STECH / 愛知工業大学 システム工学研究会 共同企画 Advent Calendar 2022
+2022/05/07 [学生団体LT会(Online)](https://sysken.connpass.com/event/243739/)
