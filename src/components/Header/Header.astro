@@ -9,9 +9,18 @@ import "normalize.css";
     <a href="/" class="flex items-center">
       <span
         class="self-center text-xl font-semibold whitespace-nowrap dark:text-white"
-        >qqey.net</span
+        id="logo">qqey.net</span
       >
     </a>
+    <style>
+      #logo {
+        display: inline-block;
+        background: linear-gradient(135deg, #fed878 0%, #fa505e 100%);
+        background: -webkit-linear-gradient(-45deg, #fed878 0%, #fa505e 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+    </style>
     <button
       data-collapse-toggle="navbar-multi-level"
       type="button"
