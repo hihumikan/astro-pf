@@ -1,30 +1,81 @@
-<section>
-  <div class="md:text-5xl text-2xl text-center pt-72 font-bold text-gray-600">
-    <div class="sentence">
-      <ul class="typewriter-cycle">
-        <li>
-          <typewritten-text>Welcome to qqey.net</typewritten-text>
-        </li>
-      </ul>
+<section class="text-gray-600 mt-16 body-font">
+  <div
+    class="container mx-auto flex flex-col px-5 py-24 justify-center items-center"
+  >
+    <div id="logo" class="font-extrabold sm:text-8xl text-7xl pb-6">
+      qqey.net
+    </div>
+    <style>
+      #logo {
+        display: inline-block;
+        background: linear-gradient(135deg, #fed878 0%, #fa505e 100%);
+        background: -webkit-linear-gradient(-45deg, #fed878 0%, #fa505e 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+    </style>
+    <div class="w-full md:w-2/3 flex flex-col mb-16 items-center text-center">
+      <h1
+        class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-800"
+      >
+        Web Development, Infrastructure, and More
+      </h1>
+      <div class="flex mt-10">
+        <a href="/about">
+          <button
+            class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="icon icon-tabler icon-tabler-user"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              stroke-width="2"
+              stroke="currentColor"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+              <circle cx="12" cy="7" r="4"></circle>
+              <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"></path>
+            </svg>
+            <span class="ml-4 flex items-start flex-col leading-none">
+              <span class="title-font font-bold">About me</span>
+            </span>
+          </button>
+        </a>
+        <a href="/server">
+          <button
+            class="bg-gray-100 inline-flex py-3 ml-4 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="icon icon-tabler icon-tabler-server-2"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              stroke-width="2"
+              stroke="currentColor"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+              <rect x="3" y="4" width="18" height="8" rx="3"></rect>
+              <rect x="3" y="12" width="18" height="8" rx="3"></rect>
+              <line x1="7" y1="8" x2="7" y2="8.01"></line>
+              <line x1="7" y1="16" x2="7" y2="16.01"></line>
+              <path d="M11 8h6"></path>
+              <path d="M11 16h6"></path>
+            </svg>
+            <span class="ml-4 flex items-start flex-col leading-none">
+              <span class="title-font font-bold">Server</span>
+            </span>
+          </button>
+        </a>
+      </div>
     </div>
   </div>
 </section>
-<span id="typewriter"></span>
-<script>
-  document.querySelectorAll(".typewriter-cycle").forEach((cycle) => {
-    const items = cycle.querySelectorAll("typewritten-text");
-    for (let i = 0; i < items.length; ++i) {
-      const cur = items[i];
-      const next = items[i === items.length - 1 ? 0 : i + 1];
-
-      cur.addEventListener("typewritten-text:phrasetyped", () =>
-        setTimeout(cur.start, cur.phraseInterval)
-      );
-      cur.addEventListener("typewritten-text:phraseremoved", () => {
-        cur.classList.remove("active");
-        next.classList.add("active");
-        setTimeout(next.start, next.phraseInterval);
-      });
-    }
-  });
-</script>

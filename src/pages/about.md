@@ -15,7 +15,21 @@ hihumikan / mikan_54951
 
 最近は、プライベート/パブリッククラウドの運用やSREに興味があります。
 
-## Skill
+## Interests
+
+### Frontend
+
+JavaScript / TypeScript / React(Next.js) / Vue.js(Nuxt.js) / Astro
+
+### Backend
+
+Golang / Python / PHP(Laravel) / Ruby(Rails) / Java(Kotlin)
+
+### Infrastructure
+
+Private,PublicCloud(AWS,OCI) / Docker / Kubernetes / Terraform / Network
+
+### Others
 
 [Lapras](https://lapras.com/public/NF3FKZY)からご確認ください。
 
