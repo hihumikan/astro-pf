@@ -15,7 +15,13 @@ hihumikan / mikan_54951
 
 最近は、プライベート/パブリッククラウドの運用やSREに興味があります。
 
-## Links
+## History
+
+2020/4 - now: 4年生大学 情報科学 学士課程
+
+同大学 修士課程進学予定
+
+## Contact
 
 Twitter: [@mikan_54951](https://twitter.com/mikan_54951)
 
@@ -25,7 +31,7 @@ keybase: [@hihumikan](https://keybase.io/hihumikan)
 
 Mail: [a[at]qqey.net](mailto:a@qqey.net)
 
-SSH: <https://github.com/hihumikan.keys>
+Scrapbox: [@hihumikan](https://scrapbox.io/dev-hihumikan/)
 
 ## Interests
 
