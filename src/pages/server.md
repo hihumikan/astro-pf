@@ -8,6 +8,10 @@ qqey.netが管理するサーバの稼働状況です。
 
 自宅で管理する場合は基本的に柑橘系の名前で運用します。
 
+## Github Organization
+
+<https://github.com/qqey>
+
 ## プライベートクラウド
 
 ### iyokan
