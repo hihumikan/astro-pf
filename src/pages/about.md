@@ -39,8 +39,18 @@ Golang / Python / PHP(Laravel) / Ruby(Rails) / Java(Kotlin)
 
 ### Infrastructure
 
-Private,PublicCloud(AWS,OCI) / Docker / Kubernetes / Terraform / Network
+Private,PublicCloud(AWS,OCI) / Docker / Kubernetes / Network
 
 ### Others
 
 [Lapras](https://lapras.com/public/NF3FKZY)からご確認ください。
+
+## Event Speaking/Hosting History
+
+2022/04/05: [キャリアセレクト:【聞き専も大歓迎】テーマ自由のLT会！オンラインでお気軽に参加しませんか？](https://careerselect-studygroup.connpass.com/event/242576/)
+
+2022/05/07: [学生団体LT会(Online) 2022/5/7](https://sysken.connpass.com/event/243739/)
+
+2022/06/25: [サポーターズ:技育博](https://talent.supporterz.jp/geekhaku/2022/)
+
+2022/09/27: [キャリアセレクト:【エンジニアを目指す学生限定】 サマーインターン成果発表会](https://careerselect-studygroup.connpass.com/event/258392/)
