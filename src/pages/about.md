@@ -11,13 +11,15 @@ hihumikan / mikan_54951
 
 ## Introduction
 
-フロントエンド分野からサーバーサイドの開発、インフラの勉強まで幅広く手を付けています。
+2020年4月からWebの勉強を始めました。
 
-最近は、プライベート/パブリッククラウドの運用やSREに興味があります。
+フロントエンド分野からサーバーサイドの開発、インフラまで幅広く手を付けています。
+
+最近では、プライベート/パブリッククラウドの運用やSREに興味があります。
 
 ## History
 
-2020/4 - now: 4年制大学 情報科学 学士課程
+2020/4 - now: 情報系大学 情報科学部 学士課程(3年生)
 
 同大学 修士課程進学予定
 
@@ -33,7 +35,7 @@ Mail: [a[at]qqey.net](mailto:a@qqey.net)
 
 Scrapbox: [@hihumikan](https://scrapbox.io/dev-hihumikan/)
 
-## Interests
+## Skills
 
 ### Frontend
 
@@ -41,11 +43,15 @@ JavaScript / TypeScript / React(Next.js) / Vue.js(Nuxt.js) / Astro
 
 ### Backend
 
-Golang / Python / PHP(Laravel) / Ruby(Rails) / Java(Kotlin)
+PHP(Laravel) / Ruby(Rails) / Java(Kotlin) / Golang / Python
 
 ### Infrastructure
 
-Private,PublicCloud(AWS,OCI) / Docker / Kubernetes / Network
+Private,PublicCloud(AWS,OCI) / Docker / Network
+
+### Tools
+
+Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / Adobe Photoshop
 
 ### Others
 
