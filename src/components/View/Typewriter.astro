@@ -4,14 +4,36 @@
   <div
     class="container mx-auto flex flex-col px-5 py-24 justify-center items-center"
   >
-    <div id="logo" class="font-extrabold sm:text-8xl text-7xl pb-6">
-      qqey.net
+    <div id="title-logo">
+      <p class="gradation">
+        <a href="" class="font-extrabold sm:text-8xl text-7xl pb-6">qqey.net</a>
+      </p>
     </div>
     <style>
-      #logo {
+      @keyframes gradient {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+      }
+
+      .gradation a {
+        background: linear-gradient(-45deg, #fed878, #fa505e, #23a6d5, #23d5ab);
+        background: -webkit-linear-gradient(
+          -45deg,
+          #fed878,
+          #fa505e,
+          #23a6d5,
+          #23d5ab
+        );
+        background-size: 400% 400%;
+        animation: gradient 5s ease infinite;
         display: inline-block;
-        background: linear-gradient(135deg, #fed878 0%, #fa505e 100%);
-        background: -webkit-linear-gradient(-45deg, #fed878 0%, #fa505e 100%);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
       }
