@@ -35,6 +35,10 @@ Mail: [a[at]qqey.net](mailto:a@qqey.net)
 
 Scrapbox: [@hihumikan](https://scrapbox.io/dev-hihumikan/)
 
+Zenn: [@hihumikan](https://zenn.dev/hihumikan)
+
+qiita: [@hihumikan](https://qiita.com/hihumikan)
+
 ## Skills
 
 ### Frontend
