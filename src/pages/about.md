@@ -27,6 +27,8 @@ Keybase: [@hihumikan](https://keybase.io/hihumikan)
 
 Mail: [a[at]qqey.net](mailto:a@qqey.net)
 
+LAPRAS: [@NF3FKZY](https://lapras.com/public/NF3FKZY)
+
 ## Technical Skills
 
 ### Frontend
