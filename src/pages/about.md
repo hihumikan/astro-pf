@@ -61,7 +61,7 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
 
 2021/07: 技育CAMP vol5 2021 / [ドーパミン放出アプリ](https://github.com/SystemEngineeringTeam/geekcamp-vol5)
 
-2021/10: 愛工大祭「工科展」/ [シス研人数出る蔵](https://github.com/SystemEngineeringTeam/koukaten2021) 最優秀賞
+2021/10: 愛工大祭「工科展」 / [シス研人数出る蔵](https://github.com/SystemEngineeringTeam/koukaten2021) 最優秀賞
 
 2022/03: Open Hack U 2021 Vol.3 / [S.S.R.](https://github.com/SystemEngineeringTeam/HackU-2021-vol3)
 

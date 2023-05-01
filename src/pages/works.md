@@ -52,6 +52,10 @@ Open Hack U 2020 Vol.3(2020-9)
 
 某インターンのハッカソンで制作。健康づくりを推進したい人のための食事・運動レビューサービス。おとんとおかんから健康のための知識を得て、日々の生活に役立てることが出来る。
 
+[調味料残量可視化できる蔵](https://youtu.be/PrmSbCjV3Jw) ナノコン応用賞
+
+外からでも調味料の量を確認可能にするアプリ。調味料の量を確認することによって、買い忘れを防ぐことが出来る。
+
 ## ユーティリティ
 
 [Slackbot-LINEstamp-go](https://github.com/hihumikan/SlackBot_LINEStamp_Go)
@@ -68,4 +72,7 @@ YoutubeのTwitter共有をiPhoneと同じ形式にするAndroidアプリ。
 
 [Sukkiri-houkoku](https://github.com/hihumikan/Sukkiri-houkoku)
 
+
 [PassWordGenerator](https://github.com/hihumikan/hihumikan.github.io)
+
+パスワード生成アプリクローン。 jsしか動いていないのでセキュア。
