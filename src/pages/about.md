@@ -43,7 +43,7 @@ PHP(Laravel) / Ruby(Rails) / Java(Kotlin) / Golang / Python
 
 ### Infrastructure
 
-Private,PublicCloud(AWS,OCI) / Docker / Network
+Private,PublicCloud(AWS,OCI) / Network
 
 ### Tools
 
