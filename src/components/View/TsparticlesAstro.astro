@@ -5,7 +5,7 @@ import type { ISourceOptions } from "tsparticles-engine";
 const options: ISourceOptions = {
   "particles":{
     "number":{
-      "value":30,//この数値を変更すると桜の数が増減できる
+      "value":30,
       "density":{
         "enable":true,
         "value_area":1121.6780303333778
@@ -15,12 +15,12 @@ const options: ISourceOptions = {
       "value":"#fff"
     },
     "shape":{
-      "type":"image",//形状は画像を指定
+      "type":"image",
       "stroke":{
         "width":0,
       },
       "image":{
-        "src":"http://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/move02/5-6/img/flower.png",//画像を指定
+        "src":"sakura.png",
         "width":120,
         "height":120
       }
@@ -37,7 +37,7 @@ const options: ISourceOptions = {
     },
     "size":{
       "value":8.011985930952697,
-      "random":true,//サイズをランダムに
+      "random":true,
       "anim":{
         "enable":false,
         "speed":4,
@@ -50,12 +50,12 @@ const options: ISourceOptions = {
     },
     "move":{
       "enable":true,
-      "speed":7,//この数値を小さくするとゆっくりな動きになる
-      "direction":"bottom-right",//右下に向かって落ちる
-      "random":false,//動きはランダムにしない
-      "straight":false,//動きをとどめない
-      "out_mode":"out",//画面の外に出るように描写
-      "bounce":false,//跳ね返りなし
+      "speed":7,
+      "direction":"bottom-right",
+      "random":false,
+      "straight":false,
+      "out_mode":"out",
+      "bounce":false,
       "attract":{
         "enable":false,
         "rotateX":281.9177489524316,
