@@ -1,4 +1,6 @@
 ---
+const canonicalURL = new URL(Astro.url.pathname, 'https://qqey.net');
+const ogpImageURL = new URL('/ogp.png', canonicalURL);
 ---
 
 <head>
@@ -12,7 +14,7 @@
   <meta property="og:type" content="profile" />
   <meta property="og:title" content="qqey.net" />
   <meta property="og:url" content="https://www.qqey.net/" />
-  <meta property="og:image" content="/ogp.png" />
+  <meta property="og:image" content="https://www.qqey.net/ogp.png" />
   <meta property="og:locale" content="ja_JP" />
   <meta property="og:description" content="qqey.net web site" />
 
