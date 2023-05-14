@@ -1,0 +1,44 @@
+---
+import { SEO } from "astro-seo";
+import { CollectionEntry, getCollection } from "astro:content";
+
+interface Props {
+  post: CollectionEntry<"posts">;
+}
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts");
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: {
+      post,
+    },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <SEO
+      charset="UTF-8"
+      openGraph={{
+        basic: {
+          title: post.data.title,
+          type: "article",
+          image: new URL(`/og/${post.slug}.png`, Astro.url.origin).toString(),
+        },
+        image: {
+          alt: post.data.title,
+        },
+      }}
+    />
+  </head>
+  <body>
+    <h1>{post.data.title}</h1>
+    <Content />
+  </body>
+</html>
