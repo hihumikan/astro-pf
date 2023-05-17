@@ -2,27 +2,19 @@
 import "normalize.css";
 ---
 
-<nav class="bg-white border-gray-200 dark:bg-gray-900 dark:border-gray-700">
+<nav class="bg-white border-gray-200 py-3">
   <div class="container flex flex-wrap items-center justify-between mx-auto">
     <a href="/" class="flex items-center">
       <span
-        class="self-center p-2 text-2xl font-semibold whitespace-nowrap dark:text-white"
-        id="logo">qqey.net</span
+        class="self-center font-black text-gray-800 pl-2 mb-1 font-Kumbhsans text-2xl whitespace-nowrap"
+        >qqey.net</span
       >
     </a>
-    <style>
-      #logo {
-        display: inline-block;
-        background: linear-gradient(135deg, #fed878 0%, #fa505e 100%);
-        background: -webkit-linear-gradient(-45deg, #fed878 0%, #fa505e 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-      }
-    </style>
+
     <button
       data-collapse-toggle="navbar-multi-level"
       type="button"
-      class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+      class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200"
       aria-controls="navbar-multi-level"
       aria-expanded="false"
     >
@@ -41,26 +33,26 @@ import "normalize.css";
     </button>
     <div class="hidden w-full md:block md:w-auto" id="navbar-multi-level">
       <ul
-        class="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700"
+        class="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-white"
       >
         <li>
           <a
             href="/about"
-            class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-amber-300 md:p-0 dark:text-white md:dark:hover:text-amber-300 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
+            class="block py-2 pl-3 pr-4 font-Kumbhsans text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-400 md:p-0"
             >About</a
           >
         </li>
         <li>
           <a
             href="/server"
-            class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-amber-300 md:p-0 dark:text-white md:dark:hover:text-amber-300 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
+            class="block py-2 pl-3 pr-4 font-Kumbhsans text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-400 md:p-0"
             >Server</a
           >
         </li>
         <li>
           <a
             href="https://scrapbox.io/dev-hihumikan/"
-            class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-amber-300 md:p-0 dark:text-white md:dark:hover:text-amber-300 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
+            class="block py-2 pl-3 pr-4 font-Kumbhsans text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-400 md:p-0"
             >Scrapbox</a
           >
         </li>
@@ -68,7 +60,7 @@ import "normalize.css";
           <button
             id="dropdownNavbarLink"
             data-dropdown-toggle="dropdownNavbar"
-            class="flex items-center justify-between w-full py-2 pl-3 pr-4 font-medium text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-amber-300 md:p-0 md:w-auto dark:text-white dark:hover:text-white dark:focus:text-white dark:border-white dark:hover:bg-white md:dark:hover:bg-transparent"
+            class="flex items-center font-Kumbhsans justify-between w-full py-2 pl-3 pr-4 font-medium text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:p-0 md:w-auto"
             >Resources
             <svg
               class="w-4 h-4 ml-1 mt-1"
@@ -84,16 +76,16 @@ import "normalize.css";
           </button>
           <div
             id="dropdownNavbar"
-            class="z-10 hidden font-normal bg-white divide-y divide-gray-100 rounded shadow w-44 dark:bg-gray-700 dark:divide-gray-600"
+            class="z-10 hidden font-normal bg-white divide-y divide-gray-100 rounded shadow w-44"
           >
             <ul
-              class="py-1 text-sm text-gray-700 dark:text-white"
+              class="py-1 text-sm text-gray-700"
               aria-labelledby="dropdownLargeButton"
             >
               <li>
                 <a
                   href="/works"
-                  class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-amber-300"
+                  class="block px-4 py-2 hover:bg-gray-100"
                   >Works</a
                 >
               </li>
