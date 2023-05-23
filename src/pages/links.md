@@ -12,12 +12,18 @@ qqey.net をリンクしてくださる場合は、[CC BY-ND 4.0](https://creati
 
 直リンクすると利用できなくなる可能性がありますので、ご注意ください。
 
+<br/>
+
+[png](/banner/png/Banner-icon1.png) / [svg](/banner/svg/Banner-icon1.svg)
 <img src="/banner/png/Banner-icon1.png" width="200">
 
+
+[png](/banner/png/Banner1.png) / [svg](/banner/svg/Banner1.svg)
 <img src="/banner/png/Banner1.png" width="200">
 
-<img src="/banner/png/Banner2.png" width="200">
 
+[png](/banner/png/Banner2.png) / [svg](/banner/svg/Banner2.svg)
+<img src="/banner/png/Banner2.png" width="200">
 
 ## 相互リンク
 
