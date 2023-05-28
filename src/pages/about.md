@@ -80,3 +80,5 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
 2022/09/27: [キャリアセレクト:【エンジニアを目指す学生限定】 サマーインターン成果発表会](https://careerselect-studygroup.connpass.com/event/258392/)
 
 2022/12/26: [愛知工業大学システム工学研究会: 2022冬のLT会(Online)](https://www.youtube.com/live/TvhWFQRtsYE?feature=share)
+
+2023/05/28: [技術書同人誌博覧会: Syskenの技術本 様々な技術を詰め合わせてみました。](https://gishohaku.dev/gishohaku8/circles/Tk2mFiVwcTvT0jQJJA0s)
