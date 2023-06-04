@@ -36,8 +36,8 @@ dependencies:
     specifier: ^18.2.0
     version: 18.2.0(react@18.2.0)
   satori:
-    specifier: ^0.9.0
-    version: 0.9.0
+    specifier: ^0.10.0
+    version: 0.10.0
   sharp:
     specifier: ^0.32.1
     version: 0.32.1
@@ -2974,8 +2974,8 @@ packages:
       suf-log: 2.5.3
     dev: false
 
-  /satori@0.9.0:
-    resolution: {integrity: sha512-KzqaOCtrf8PE0FsQhJw8OeybPimH2r0kDijzpnRbY59lJhy+wf9qU5MnZuzDKbScJ1tOwF56TAqONooAYI9zbQ==}
+  /satori@0.10.0:
+    resolution: {integrity: sha512-mst4KubaYn5qN1tsEXxwErPXJ3fR+GB0g5gN2h76rMfefC0IZu3o1/EZZTs+NE5UgcvTdPSXax9hiROc8S9e0g==}
     engines: {node: '>=16'}
     dependencies:
       '@shuding/opentype.js': 1.4.0-beta.0
