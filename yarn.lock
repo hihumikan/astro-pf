@@ -3418,10 +3418,10 @@ tslib@^2.4.0, tslib@^2.5.0:
   resolved "https://registry.npmjs.org/tslib/-/tslib-2.5.0.tgz"
   integrity sha512-336iVw3rtn2BUK7ORdIAHTyxHGRIHVReokCR3XjbckJMK7ms8FysBfhLR8IXnAgy7T0PTPNBWKiH514FOW/WSg==
 
-tsparticles-engine@^2.10.0, tsparticles-engine@^2.9.3:
-  version "2.10.0"
-  resolved "https://registry.npmjs.org/tsparticles-engine/-/tsparticles-engine-2.10.0.tgz"
-  integrity sha512-9y2w8zeBheeMyM65UeRKpw/fk5WSC00GspPfG2MmtiGUCXReBkirT6ixXDiO3IWL3BF18vVzdYpmKpphjy6dJg==
+tsparticles-engine@^2.10.0, tsparticles-engine@^2.10.1, tsparticles-engine@^2.9.3:
+  version "2.10.1"
+  resolved "https://registry.npmjs.org/tsparticles-engine/-/tsparticles-engine-2.10.1.tgz"
+  integrity sha512-DV2gYsbChyiXYIZYgnXtKHSAZdvnNMJpVf9Cw0gO7vjQ6pcgLAeyboRtvsaTfwKZNzzA7BeSf1lVhgGxorL4CQ==
 
 tsparticles-interaction-external-attract@^2.10.0:
   version "2.10.0"
