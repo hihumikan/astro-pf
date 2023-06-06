@@ -773,10 +773,10 @@ astro-particles@^2.9.3:
   dependencies:
     tsparticles-engine "^2.9.3"
 
-astro-seo@^0.7.2:
-  version "0.7.2"
-  resolved "https://registry.npmjs.org/astro-seo/-/astro-seo-0.7.2.tgz"
-  integrity sha512-YnSqj4E6vbF7wRk3gcxOPHBjenhfgaINEJlTsnu4sovAyfyGEdQksbioYKoZ+vERRDaYvEricfSzC6fc9lieww==
+astro-seo@^0.7.4:
+  version "0.7.4"
+  resolved "https://registry.yarnpkg.com/astro-seo/-/astro-seo-0.7.4.tgz#0c2788b97ec3944390be2dd39a8ad9a6aec294b0"
+  integrity sha512-E+wJmxOnvBRjgzVctdGk/VdwoEqeQ6Q/KgVW2wRBXZWJVDgOweB32Da/UiH0/FpGncPzo2daOrc08DNn5wTanw==
 
 astro@^2.6.0:
   version "2.6.0"
