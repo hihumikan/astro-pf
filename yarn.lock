@@ -627,20 +627,20 @@
 
 "@types/prop-types@*":
   version "15.7.5"
-  resolved "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.5.tgz"
+  resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
   integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
 
-"@types/react-dom@^18.2.4":
-  version "18.2.5"
-  resolved "https://registry.npmjs.org/@types/react-dom/-/react-dom-18.2.5.tgz"
-  integrity sha512-sRQsOS/sCLnpQhR4DSKGTtWFE3FZjpQa86KPVbhUqdYMRZ9FEFcfAytKhR/vUG2rH1oFbOOej6cuD7MFSobDRQ==
+"@types/react-dom@^18.2.6":
+  version "18.2.6"
+  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-18.2.6.tgz#ad621fa71a8db29af7c31b41b2ea3d8a6f4144d1"
+  integrity sha512-2et4PDvg6PVCyS7fuTc4gPoksV58bW0RwSxWKcPRcHZf0PRUGq03TKcD/rUHe3azfV6/5/biUBJw+HhCQjaP0A==
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^18.2.6":
-  version "18.2.12"
-  resolved "https://registry.npmjs.org/@types/react/-/react-18.2.12.tgz"
-  integrity sha512-ndmBMLCgn38v3SntMeoJaIrO6tGHYKMEBohCUmw8HoLLQdRMOIGXfeYaBTLe2lsFaSB3MOK1VXscYFnmLtTSmw==
+"@types/react@*", "@types/react@^18.2.13":
+  version "18.2.13"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.13.tgz#a98c09bde8b18f80021935b11d2d29ef5f4dcb2f"
+  integrity sha512-vJ+zElvi/Zn9cVXB5slX2xL8PZodPCwPRDpittQdw43JR2AJ5k3vKdgJJyneV/cYgIbLQUwXa9JVDvUZXGba+Q==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -653,7 +653,7 @@
 
 "@types/scheduler@*":
   version "0.16.3"
-  resolved "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.3.tgz"
+  resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.3.tgz#cef09e3ec9af1d63d2a6cc5b383a737e24e6dcf5"
   integrity sha512-5cJ8CB4yAx7BH1oMvdU0Jh9lrEXyPkar6F9G/ERswkCuvP4KQZfZkSjcMbAICCpQTN4OuZn8tz0HiKv9TGZgrQ==
 
 "@types/sharp@^0.32.0":
@@ -770,9 +770,9 @@ array-iterate@^2.0.0:
   resolved "https://registry.npmjs.org/array-iterate/-/array-iterate-2.0.1.tgz"
   integrity sha512-I1jXZMjAgCMmxT4qxXfPXa6SthSoE8h6gkSI9BGGNv8mP8G/v0blc+qFnZu6K42vTOiuME596QaLO0TP3Lk0xg==
 
-astro-particles@^2.10.0:
+astro-particles@^2.9.3:
   version "2.10.0"
-  resolved "https://registry.yarnpkg.com/astro-particles/-/astro-particles-2.10.0.tgz#b9bb6e3b02f03c182efc4c3c2b389723a62c44d5"
+  resolved "https://registry.npmjs.org/astro-particles/-/astro-particles-2.10.0.tgz"
   integrity sha512-DE1azMdcu2dkXxEKd7seoRqbhlh4UnTfinWM+RF5jm00tPtaJ+cjrz5nKHRnzYcyTAR18MaRAC4lIKf3tu86iQ==
   dependencies:
     tsparticles-engine "^2.10.1"
@@ -1181,7 +1181,7 @@ cssesc@^3.0.0:
 
 csstype@^3.0.2:
   version "3.1.2"
-  resolved "https://registry.npmjs.org/csstype/-/csstype-3.1.2.tgz"
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.1.2.tgz#1d4bf9d572f11c14031f0436e1c10bc1f571f50b"
   integrity sha512-I7K1Uu0MBPzaFKg4nI5Q7Vs2t+3gWWW648spaF+Rg7pI9ds18Ugn+lvg4SHczUdKlHI5LWBXyqfS8+DufyBsgQ==
 
 debug@^4.0.0, debug@^4.1.0, debug@^4.3.4:
@@ -3432,7 +3432,7 @@ tslib@^2.4.0, tslib@^2.5.0:
 
 tsparticles-engine@^2.10.1, tsparticles-engine@^2.9.3:
   version "2.10.1"
-  resolved "https://registry.yarnpkg.com/tsparticles-engine/-/tsparticles-engine-2.10.1.tgz#43097da18ea6b4123f12115fcbd5243d45e85fd7"
+  resolved "https://registry.npmjs.org/tsparticles-engine/-/tsparticles-engine-2.10.1.tgz"
   integrity sha512-DV2gYsbChyiXYIZYgnXtKHSAZdvnNMJpVf9Cw0gO7vjQ6pcgLAeyboRtvsaTfwKZNzzA7BeSf1lVhgGxorL4CQ==
 
 tsparticles-interaction-external-attract@^2.10.1:
