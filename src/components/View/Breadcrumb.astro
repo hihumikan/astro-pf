@@ -1,3 +1,7 @@
+--- 
+const path = Astro.url.pathname.replace("/", "");
+const capitalized = path.charAt(0).toUpperCase() + path.slice(1);
+---
 <nav aria-label="Breadcrumb">
   <ol class="inline-flex items-center space-x-1 md:space-x-3">
     <li class="inline-flex items-center">
@@ -33,7 +37,7 @@
           href={Astro.url.pathname}
           class="font-bold text-gray-500 hover:text-gray-800 md:ml-2 dark:text-gray-400 dark:hover:text-gray-500"
         >
-          {Astro.url.pathname.replace("/", "").replace("/", "")}</a
+          {capitalized}</a
         >
       </div>
     </li>
