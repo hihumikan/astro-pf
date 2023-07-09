@@ -19,6 +19,7 @@
     "astro": "^2.0.0",
     "astro-particles": "^2.9.3",
     "astro-seo": "^0.7.2",
+    "github-markdown-css": "^5.2.0",
     "normalize.css": "^8.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
