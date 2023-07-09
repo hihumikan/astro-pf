@@ -3,6 +3,9 @@ import Breadcrumb from "../components/View/Breadcrumb.astro";
 import Footer from "../components/Footer/Footer.astro";
 import Header from "../components/Header/Header.astro";
 import MainHead from "../components/Header/MainHead.astro";
+// github-markdown-css
+import "../styles/github-markdown.css";
+import "../styles/bread-crumb.css";
 ---
 
 <!DOCTYPE html>
@@ -13,48 +16,18 @@ import MainHead from "../components/Header/MainHead.astro";
 
   <body>
     <Header />
-
     <div
       class="relative max-w-2xl mx-auto md:max-w-3xl min-w-0 break-words w-full rounded-md mt-14"
     >
-      <div class="markdown-body p-5 text-gray-700 leading-normal">
-        <Breadcrumb />
-        <slot />
+      <div class="p-5 text-gray-700 leading-normal">
+        <div class="mb-5 breadcrumb-body">
+          <Breadcrumb />
+        </div>
+        <div class="markdown-body">
+          <slot />
+        </div>  
       </div>
     </div>
-
     <Footer />
-    <style is:global>
-      .markdown-body {
-        font-family: 'Noto Sans JP';
-            src: url('/fonts/noto-sans-javanese-v21-latin-regular.woff2') format('woff2');
-            font-weight: normal;
-            font-style: normal;
-            font-display: swap;
-      }
-      
-      .markdown-body ul {
-        @apply list-disc pl-4 mb-4;
-      }
-      .markdown-body h1,
-      h2 {
-        @apply border-b-2 border-solid border-gray-200;
-      }
-      .markdown-body h1 {
-        @apply text-4xl pb-2 font-semibold;
-      }
-      .markdown-body h2 {
-        @apply mb-2 text-2xl pt-4 font-semibold;
-      }
-      .markdown-body h3 {
-        @apply text-xl;
-      }
-      .markdown-body p {
-        @apply mb-4;
-      }
-      .markdown-body a {
-        @apply text-blue-500;
-      }
-    </style>
   </body>
 </html>
