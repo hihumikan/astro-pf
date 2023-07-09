@@ -25,6 +25,14 @@ import MainHead from "../components/Header/MainHead.astro";
 
     <Footer />
     <style is:global>
+      .markdown-body {
+        font-family: 'Noto Sans JP';
+            src: url('/fonts/noto-sans-javanese-v21-latin-regular.woff2') format('woff2');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+      }
+      
       .markdown-body ul {
         @apply list-disc pl-4 mb-4;
       }
