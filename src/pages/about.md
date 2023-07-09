@@ -13,11 +13,9 @@ hihumikan / mikan_54951
 
 Apr 2020 – now
 
-Aichi Institute of Technology, Aichi, Japan
+Nagoya, Aichi, Japan
 
 Bachelor of Science in Computer Information Systems
-
-Mobile Computing Laboratory [@Pluslab](https://pluslab.org/)
 
 ## Contact
 
