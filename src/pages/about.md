@@ -3,7 +3,7 @@ layout: ../layouts/Layout.astro
 ---
 # About
 
-<img class="py-4" width="200" alt="qiita-square" src="https://avatars.githubusercontent.com/u/26848713?v=4">
+<img class="py-4" width="200" alt="qiita-square" loading="lazy" src="https://avatars.githubusercontent.com/u/26848713?v=4">
 
 ## Name
 
