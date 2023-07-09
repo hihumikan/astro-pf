@@ -1,5 +1,5 @@
 --- 
-const path = Astro.url.pathname.replace("/", "");
+const path = Astro.url.pathname.replace("/", "").replace("/", "");
 const capitalized = path.charAt(0).toUpperCase() + path.slice(1);
 ---
 <nav aria-label="Breadcrumb">
