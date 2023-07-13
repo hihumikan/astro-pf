@@ -1,9 +1,45 @@
 ---
 layout: ../layouts/Layout.astro
+
 ---
 # About
 
-<img class="py-4" width="200" alt="qiita-square" loading="lazy" src="https://avatars.githubusercontent.com/u/26848713?v=4">
+<img src="200x200.png" data-src="https://avatars.githubusercontent.com/u/26848713?v=4" width="200" height="200" alt="qiita-square" loading="lazy">
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var lazyImages = document.querySelectorAll("img[data-src]");
+
+  if ("IntersectionObserver" in window) {
+    var options = {
+      root: null,
+      rootMargin: "0px",
+      threshold: 0.1
+    };
+
+    var imageObserver = new IntersectionObserver(function(entries, observer) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          var lazyImage = entry.target;
+          lazyImage.src = lazyImage.dataset.src;
+          imageObserver.unobserve(lazyImage);
+        }
+      });
+    }, options);
+
+    lazyImages.forEach(function(lazyImage) {
+      imageObserver.observe(lazyImage);
+    });
+  } else {
+    // IntersectionObserver がサポートされていない場合の代替処理
+    // ここではすべての画像を即座に読み込みます
+    lazyImages.forEach(function(lazyImage) {
+      lazyImage.src = lazyImage.dataset.src;
+    });
+  }
+});
+
+</script>
 
 ## Name
 
