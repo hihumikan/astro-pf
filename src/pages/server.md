@@ -14,48 +14,31 @@ qqey.netが管理するサーバの稼働状況です。
 
 ## プライベートクラウド
 
-### iyokan
-
-Raspberry Pi 4 (UD-RP4B4)</br>
-3.7 GiB RAM</br>
-GNU/Linux 5.19.0-1009-raspi Ubuntu 22.10</br>
-
-<center>
-    <iframe src="https://mackerel.io/embed/public/embed/Ji2GXhDapezPJAAAZ8jk0w76gza70c136nP7cqXNOvy1V5u1QyaoxcpKXAp0LY6S?period=10m" height="200" width="400" frameborder="0"></iframe>
-</center>
-
 ### ponkan
 
 ASRock DeskMini A300</br>
 14 GiB RAM</br>
 4 x AMD Ryzen 3 3200G with Radeon Vega Graphics</br>
-GNU/Linux 5.15.0-56-generic Ubuntu 22.04</br>
+GNU/Linux 6.2.16-3-pve Debian 12.0</br>
+Proxmox VE 8.0</br>
 
-<center>
-    <iframe src="https://mackerel.io/embed/public/embed/ORrIKmrbeLhLLRQzVkzWWu1pthiqVNfnBQxLqcTxtV3rey52AP32i3pPIGiuKkFn?period=10m" height="200" width="400" frameborder="0"></iframe>
-</center>
+### tunonozomi
 
-## パブリッククラウド
+16 GiB RAM</br>
+8 x AMD FX(tm)-8150 Eight-Core Processor</br>
+GNU/Linux 6.2.16-3-pve Debian 12.0</br>
+Proxmox VE 8.0</br>
 
-### tk2-114-57720
+### raspi
 
-さくらインターネット VPS 1Gプラン 東京リージョン</br>
-0.95 GiB RAM</br>
-2 x Intel Core Processor (Broadwell)</br>
-GNU/Linux 5.15.0-41-generic Ubuntu 22.04</br>
+Raspberry Pi 4 (UD-RP4B4)</br>
+3.7 GiB RAM</br>
+GNU/Linux 5.15.0-1033-raspi Ubuntu 22.04</br>
 
-<center>
-<iframe src="https://mackerel.io/embed/public/embed/HMYgEypxXfUUWy1bl5AB9aZOseSopy9UfoMPMYwovpkSnpGgIbn3FVqpi5wYe2po?period=10m" height="200" width="400" frameborder="0"></iframe>
-</center>
 
-### instance-20230102-0525
+### メトリックス
 
-Oracle Cloud VM.Standard.A1.Flex</br>
+#### cpu.{user,iowait,system}
 
-非公開
-
-### instance-20230102-0528
-
-Oracle Cloud VM.Standard.A1.Flex</br>
-
-非公開
+※稼働していない時が多いです。
+[![graph](https://mackerel.io/embed/public/embed/cFyMKzwmkNZIjwKK3EVvdC3nWnSRkySxJxxiR0GhLoY48N2lOdGud0WCDLc8vKnq.png?stacked=true&simplified=false&period=10m)](https://mackerel.io/orgs/qqey/services/kankitu/mikan/-/graphs?name=cpu.%7Buser%2Ciowait%2Csystem%7D#period%3D10m)
