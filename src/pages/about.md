@@ -79,6 +79,3 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
 
 2023/05/28: [技術書同人誌博覧会: Syskenの技術本 様々な技術を詰め合わせてみました。(寄稿と校正)](https://gishohaku.dev/gishohaku8/circles/Tk2mFiVwcTvT0jQJJA0s)
 
-<br/>
-
-<br/>
