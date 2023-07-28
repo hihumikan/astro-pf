@@ -49,7 +49,7 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
 
 丙種危険物取扱者 / 第2種電気工事士 / 普通自動車第一種免許 (MT)/ フォトマスター検定3級 / 基本情報技術者試験 (FE)
 
-## External Production
+## Projects and Developments
 
 2020/09: Open Hack U 2020 Vol.3 / [SpeedMania](https://github.com/furukawaTakumi/Hack-U-vol3)
 
@@ -65,7 +65,7 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
 
 2022/10: 第3回ナノコン応用コンテスト / [調味料残量可視化できる蔵](https://youtu.be/PrmSbCjV3Jw) ナノコン応用賞
 
-## Event Speaking History
+## Publications and Contributions
 
 2022/04/05: [キャリアセレクト:【聞き専も大歓迎】テーマ自由のLT会！オンラインでお気軽に参加しませんか？](https://careerselect-studygroup.connpass.com/event/242576/)
 
@@ -78,4 +78,3 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
 2022/12/26: [愛知工業大学システム工学研究会: 2022冬のLT会(Online)](https://www.youtube.com/live/TvhWFQRtsYE?feature=share)
 
 2023/05/28: [技術書同人誌博覧会: Syskenの技術本 様々な技術を詰め合わせてみました。(寄稿と校正)](https://gishohaku.dev/gishohaku8/circles/Tk2mFiVwcTvT0jQJJA0s)
-
