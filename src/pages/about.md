@@ -2,7 +2,8 @@
 layout: ../layouts/Layout.astro
 
 ---
-# About
+
+## About 
 
 <img src="https://avatars.githubusercontent.com/u/26848713?v=4" width="200" height="200" alt="profile_image" loading="lazy">
 
@@ -10,11 +11,7 @@ layout: ../layouts/Layout.astro
 
 hihumikan / mikan_54951
 
-## Education
-
-Apr 2020 – now
-
-Nagoya, Aichi, Japan
+## Overview
 
 Bachelor of Science in Computer Information Systems
 
@@ -42,7 +39,7 @@ PHP(Laravel) / Ruby(Rails) / Java(Kotlin) / Golang / Python
 
 ### Infrastructure
 
-Private,PublicCloud(AWS,OCI) / Network
+Private,PublicCloud(AWS,OCI) / OpenStack / Kubernetes / Network
 
 ### Tools
 
@@ -50,7 +47,7 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
 
 ### License
 
-丙種危険物取扱者 / 第2種電気工事士 / 普通自動車第一種免許（MT）/ フォトマスター検定3級 / 基本情報技術者試験(FE)
+丙種危険物取扱者 / 第2種電気工事士 / 普通自動車第一種免許 (MT)/ フォトマスター検定3級 / 基本情報技術者試験 (FE)
 
 ## External Production
 
@@ -81,3 +78,7 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
 2022/12/26: [愛知工業大学システム工学研究会: 2022冬のLT会(Online)](https://www.youtube.com/live/TvhWFQRtsYE?feature=share)
 
 2023/05/28: [技術書同人誌博覧会: Syskenの技術本 様々な技術を詰め合わせてみました。(寄稿と校正)](https://gishohaku.dev/gishohaku8/circles/Tk2mFiVwcTvT0jQJJA0s)
+
+<br/>
+
+<br/>
