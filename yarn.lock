@@ -559,9 +559,9 @@
   resolved "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.18.16.tgz"
   integrity sha512-sCIVrrtcWN5Ua7jYXNG1xD199IalrbfV2+0k/2Zf2OyV2FtnQnMgdzgpRAbi4AWlKJj1jkX+M+fEGPQj6BQB4w==
 
-"@fontsource/kumbh-sans@^5.0.7":
+"@fontsource/kumbh-sans@^5.0.5":
   version "5.0.7"
-  resolved "https://registry.yarnpkg.com/@fontsource/kumbh-sans/-/kumbh-sans-5.0.7.tgz#20ca037612a1d8dcc890aa4d5a98c6c5a9a9b156"
+  resolved "https://registry.npmjs.org/@fontsource/kumbh-sans/-/kumbh-sans-5.0.7.tgz"
   integrity sha512-XxKGK1xlR2J3+eKHKdxWiMj2LFxNgSYNcseSoFhcDPveOf9tECUb5JuhOKY3iUVT1gDQBgMWmEK3dE7KeJbb7w==
 
 "@fontsource/noto-sans-jp@^5.0.5":
@@ -3608,10 +3608,10 @@ tslib@^2.4.0, tslib@^2.5.0:
   resolved "https://registry.npmjs.org/tslib/-/tslib-2.5.0.tgz"
   integrity sha512-336iVw3rtn2BUK7ORdIAHTyxHGRIHVReokCR3XjbckJMK7ms8FysBfhLR8IXnAgy7T0PTPNBWKiH514FOW/WSg==
 
-tsparticles-engine@^2.10.1, tsparticles-engine@^2.11.1, tsparticles-engine@^2.9.3:
-  version "2.11.1"
-  resolved "https://registry.npmjs.org/tsparticles-engine/-/tsparticles-engine-2.11.1.tgz"
-  integrity sha512-tkoCi2SWIVcOkxni6I+ECRz3xfSX2dP/Wn+Kt8Qga/BGWlSrdvLVUn3DbXNJq6h/6efs6n4Db6uFtkceSyRWGg==
+tsparticles-engine@^2.10.1, tsparticles-engine@^2.11.1, tsparticles-engine@^2.12.0:
+  version "2.12.0"
+  resolved "https://registry.npmjs.org/tsparticles-engine/-/tsparticles-engine-2.12.0.tgz"
+  integrity sha512-ZjDIYex6jBJ4iMc9+z0uPe7SgBnmb6l+EJm83MPIsOny9lPpetMsnw/8YJ3xdxn8hV+S3myTpTN1CkOVmFv0QQ==
 
 tsparticles-interaction-external-attract@^2.11.1:
   version "2.11.1"
