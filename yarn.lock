@@ -518,9 +518,9 @@
   integrity sha512-rznFG75T9XNImUM1vzd8Jga09C9Ar+Sgszp+NrBJcbYhLnkSlxZ3Me7ThR9u0ad27u3cj8ELtljq0+KLFOsyLA==
 
 "@fontsource/noto-sans-jp@^5.0.5":
-  version "5.0.8"
-  resolved "https://registry.npmjs.org/@fontsource/noto-sans-jp/-/noto-sans-jp-5.0.8.tgz"
-  integrity sha512-a5/BeERXHO6u66neXXty2WypN1TdDuicpNJOmZqBOhNKlyvdmpDrPTmNXZfabcNGEywAOveApIVqNPLALoG40Q==
+  version "5.0.10"
+  resolved "https://registry.yarnpkg.com/@fontsource/noto-sans-jp/-/noto-sans-jp-5.0.10.tgz#b943416d58da2620e86c459f67f3944dcde073f9"
+  integrity sha512-ArPDBnOSzNeeSTpdATnQJnKukJqWxmv53IpPjER2LKTcP4MQ6l89pFGg4n+TtLkdkUMsQEfkffBMR6GrpYQIYw==
 
 "@jridgewell/gen-mapping@^0.3.0", "@jridgewell/gen-mapping@^0.3.2":
   version "0.3.3"
@@ -798,7 +798,7 @@ astro-seo@^0.8.0:
   resolved "https://registry.npmjs.org/astro-seo/-/astro-seo-0.8.0.tgz"
   integrity sha512-7gq6lhibCM8FuzZIJlbLLWP5EJ9KL2/4XqeFrAg9O6ZK2xMFxJ5ubKf+a0VJwwTu8W8Xr421CmpiXu6Hq7n/7Q==
 
-astro@^3.0.3:
+astro@^3.0.0:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/astro/-/astro-3.0.3.tgz#33eef6a793e65932de9b76c00020df9e393bf381"
   integrity sha512-bugdGn9wIniVFbfyAHYtF9bc9pZpPaEs3gJAnK/XWROxCBAI2UQjR6lQuWM20iCc3snqu7GDgoW2MdzO7WFZZw==
