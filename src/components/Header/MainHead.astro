@@ -2,6 +2,7 @@
 const canonicalURL = new URL(Astro.url.pathname, 'https://qqey.net');
 const ogpImageURL = new URL('/ogp.png', canonicalURL);
 const ogpbaseImageURL = new URL('/ogp-base.png', canonicalURL);
+import {ViewTransitions} from 'astro:transitions';
 ---
 
 <head>
@@ -10,7 +11,7 @@ const ogpbaseImageURL = new URL('/ogp-base.png', canonicalURL);
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="generator" content={Astro.generator} />
   <title>qqey.net</title>
-
+  <ViewTransitions />
   <!-- OGP -->
   <meta property="og:type" content="profile" />
   <meta property="og:title" content="qqey.net" />
