@@ -39,6 +39,10 @@ Mail: [a[at]qqey.net](mailto:a@qqey.net)
 
 LAPRAS: [@NF3FKZY](https://lapras.com/public/NF3FKZY)
 
+Qiita: [@hihumikan](https://qiita.com/hihumikan)
+
+Zenn: [@hihumikan](https://zenn.dev/hihumikan)
+
 ## Interests
 
 - Web application development (Frontend,Backend)
