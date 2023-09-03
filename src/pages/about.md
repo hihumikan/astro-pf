@@ -17,7 +17,7 @@ Bachelor of Science in Computer Information Systems
 
 I am a system software developer, and I develop extensively from the application layer to the infrastructure domain.
 
-### Interests
+## Interests
 
 - Web application development
   - Frontend
