@@ -11,13 +11,25 @@ layout: ../layouts/Layout.astro
 
 hihumikan / mikan_54951
 
-## Overview
+## Bio
 
 Bachelor of Science in Computer Information Systems
 
+I am a system software developer, and I develop extensively from the application layer to the infrastructure domain.
+
+### Interests
+
+- Web application development
+  - Frontend
+  - Backend
+- Infrastructure
+  - Networking
+  - Server (On-premises, SRE)
+- Software development
+
 ## Contact
 
-Twitter: [@mikan_54951](https://twitter.com/mikan_54951)
+X(Twitter): [@mikan_54951](https://twitter.com/mikan_54951)
 
 GitHub: [@hihumikan](https://github.com/hihumikan)
 
