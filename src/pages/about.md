@@ -17,15 +17,15 @@ Bachelor of Science in Computer Information Systems
 
 I am a system software developer, and I develop extensively from the application layer to the infrastructure domain.
 
-## Interests
+I used to undertake web development at times, but now I am engaged in research on overlay networks.
 
-- Web application development
-  - Frontend
-  - Backend
-- Infrastructure
-  - Networking
-  - Server (On-premises, SRE)
-- Software development
+## Careers
+
+2020/04 - 2024/03 : Bachelor of Science in Computer Information Systems
+
+2024/04 - 2026/03 : Master of Science in Computer Information Systems (anticipated)
+
+I have listed my other internship experiences and work history on Wantedly. (Please inquire via DM for details).
 
 ## Contact
 
@@ -39,11 +39,17 @@ Mail: [a[at]qqey.net](mailto:a@qqey.net)
 
 LAPRAS: [@NF3FKZY](https://lapras.com/public/NF3FKZY)
 
+## Interests
+
+- Web application development (Frontend,Backend)
+- Infrastructure (Networking, Server (On-premises, SRE))
+- System Software development
+
 ## Technical Skills
 
 ### Frontend
 
-JavaScript / TypeScript / React(Next.js) / Vue.js(Nuxt.js) / Astro
+JavaScript / TypeScript / React(Next.js) / Vue.js(Nuxt.js) / Astro / Unity
 
 ### Backend
 
