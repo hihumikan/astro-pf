@@ -73,7 +73,7 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
 
 丙種危険物取扱者 / 第2種電気工事士 / 普通自動車第一種免許 (MT)/ フォトマスター検定3級 / 基本情報技術者試験 (FE)
 
-## Projects and Developments
+## Projects
 
 2020/09: Open Hack U 2020 Vol.3 / [SpeedMania](https://github.com/furukawaTakumi/Hack-U-vol3)
 
@@ -181,7 +181,7 @@ GNU/Linux 5.15.0-1033-raspi Ubuntu 22.04</br>
 [![graph](https://mackerel.io/embed/public/embed/cFyMKzwmkNZIjwKK3EVvdC3nWnSRkySxJxxiR0GhLoY48N2lOdGud0WCDLc8vKnq.png?stacked=true&simplified=false&period=10m)](https://mackerel.io/orgs/qqey/services/kankitu/mikan/-/graphs?name=cpu.%7Buser%2Ciowait%2Csystem%7D#period%3D10m)
 
 
-## Web Banners
+## Banners
 
 qqey.net をリンクしてくださる場合は、[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.ja)にて利用可能です。
 
