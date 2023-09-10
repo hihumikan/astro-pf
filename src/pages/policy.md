@@ -4,15 +4,11 @@ layout: ../layouts/Layout.astro
 
 # Policy
 
-## TL;DR
+**Google Analytics**と**Cloudflare Browser Insights**を使用しています。
 
-- Google AnalyticsとCloudflare Browser Insights利用している
-  - アクセス情報の収集、当サイト閲覧時の利便性向上のため
-  - 個人を特定するものではない
-- Google AnalyticsはCookieを無効にすることで収集を拒否することが可能
-- Google Analyticsの利用規約
-  - <https://marketingplatform.google.com/about/analytics/terms/jp/>
+これらのツールは、アクセス情報の収集と当サイトの閲覧体験向上のために使用されています。収集された情報は個人を特定するためではなく、個人情報の収集を目的としていません。
+
+Google Analyticsのデータ収集を拒否したい場合は、Cookieを無効にすることができます。詳細な情報は[Google Analyticsの利用規約](https://marketingplatform.google.com/about/analytics/terms/jp/)をご参照ください。
 
 <div class="mb-72"></div>
-<div>　</div>
 <div class="mb-72"></div>
