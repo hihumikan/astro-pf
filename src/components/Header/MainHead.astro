@@ -1,8 +1,8 @@
 ---
-const canonicalURL = new URL(Astro.url.pathname, 'https://qqey.net');
-const ogpImageURL = new URL('/ogp.png', canonicalURL);
-const ogpbaseImageURL = new URL('/ogp-base.png', canonicalURL);
-import {ViewTransitions} from 'astro:transitions';
+const canonicalURL = new URL(Astro.url.pathname, "https://qqey.net");
+const ogpImageURL = new URL("/ogp.png", canonicalURL);
+const ogpbaseImageURL = new URL("/ogp-base.png", canonicalURL);
+import { ViewTransitions } from "astro:transitions";
 ---
 
 <head>
@@ -17,7 +17,10 @@ import {ViewTransitions} from 'astro:transitions';
   <meta property="og:url" content="https://www.qqey.net/" />
   <meta property="og:image" content="https://www.qqey.net/ogp.png" />
   <meta property="og:locale" content="ja_JP" />
-  <meta property="og:description" content="qqey.net is the official website of hihumikan. We provide a wide range of information on various topics. Stay tuned!" />
+  <meta
+    property="og:description"
+    content="qqey.net is the official website of hihumikan. We provide a wide range of information on various topics. Stay tuned!"
+  />
   <ViewTransitions />
 
   <!-- Twitter -->

@@ -1,6 +1,6 @@
 ---
 import { SEO } from "astro-seo";
-import { CollectionEntry, getCollection } from "astro:content";
+import { type CollectionEntry, getCollection } from "astro:content";
 
 interface Props {
   post: CollectionEntry<"posts">;
@@ -20,7 +20,7 @@ const { post } = Astro.props;
 const { Content } = await post.render();
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ja">
   <head>
     <SEO

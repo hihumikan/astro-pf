@@ -2,13 +2,14 @@
 import Footer from "../components/Footer/Footer.astro";
 import Header from "../components/Header/Header.astro";
 import MainHead from "../components/Header/MainHead.astro";
+import TsparticlesAstro from "../components/View/TsparticlesAstro.astro";
 // github-markdown-css
 import "../styles/github-markdown.css";
 
 import "@fontsource/noto-sans-jp";
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ja">
   <head>
     <MainHead />
@@ -20,9 +21,12 @@ import "@fontsource/noto-sans-jp";
       class="relative max-w-2xl mx-auto md:max-w-3xl min-w-0 break-words w-full rounded-md mt-14"
     >
       <div class="p-5 text-gray-700 leading-normal pb-10">
-        <div class="markdown-body mb-5" style="font-family: 'Noto Sans JP', YuGothicM, 'ヒラギノ角ゴ ProN W3', 'Lucida Grande', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, Verdana, 'ＭＳ Ｐゴシック', sans-serif;">
+        <div
+          class="markdown-body mb-5"
+          style="font-family: 'Noto Sans JP', YuGothicM, 'ヒラギノ角ゴ ProN W3', 'Lucida Grande', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, Verdana, 'ＭＳ Ｐゴシック', sans-serif;"
+        >
           <slot />
-        </div>  
+        </div>
       </div>
     </div>
     <Footer />
