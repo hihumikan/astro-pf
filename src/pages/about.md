@@ -151,6 +151,10 @@ qqey.netが管理するサーバの稼働状況です。
 
 自宅で管理する場合は基本的に柑橘系の名前で運用します。
 
+### Server Status
+
+<https://status.qqey.net/>
+
 ### ponkan
 
 ASRock DeskMini A300</br>
@@ -171,7 +175,6 @@ Proxmox VE 8.0</br>
 Raspberry Pi 4 (UD-RP4B4)</br>
 3.7 GiB RAM</br>
 GNU/Linux 5.15.0-1033-raspi Ubuntu 22.04</br>
-
 
 ### メトリックス
 
