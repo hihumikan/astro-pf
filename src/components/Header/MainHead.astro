@@ -2,7 +2,6 @@
 const canonicalURL = new URL(Astro.url.pathname, "https://qqey.net");
 const ogpImageURL = new URL("/ogp.png", canonicalURL);
 const ogpbaseImageURL = new URL("/ogp-base.png", canonicalURL);
-import { ViewTransitions } from "astro:transitions";
 ---
 
 <head>
@@ -21,7 +20,6 @@ import { ViewTransitions } from "astro:transitions";
     property="og:description"
     content="qqey.net is the official website of hihumikan. We provide a wide range of information on various topics. Stay tuned!"
   />
-  <ViewTransitions />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
