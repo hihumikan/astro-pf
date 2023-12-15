@@ -5,7 +5,7 @@ layout: ../layouts/Layout.astro
 
 ## About 
 
-<img src="https://avatars.githubusercontent.com/u/26848713?v=4" width="200" height="200" alt="profile_image" loading="lazy">
+<img src="https://avatars.githubusercontent.com/u/26848713?v=4" width="200" height="200" alt="profile_image" decoding="async" loading="lazy">
 
 ## Name
 
@@ -181,8 +181,7 @@ GNU/Linux 5.15.0-1033-raspi Ubuntu 22.04</br>
 #### cpu.{user,iowait,system}
 
 ※稼働していない時が多いです。
-[![graph](https://mackerel.io/embed/public/embed/cFyMKzwmkNZIjwKK3EVvdC3nWnSRkySxJxxiR0GhLoY48N2lOdGud0WCDLc8vKnq.png?stacked=true&simplified=false&period=10m)](https://mackerel.io/orgs/qqey/services/kankitu/mikan/-/graphs?name=cpu.%7Buser%2Ciowait%2Csystem%7D#period%3D10m)
-
+<img src="https://mackerel.io/embed/public/embed/cFyMKzwmkNZIjwKK3EVvdC3nWnSRkySxJxxiR0GhLoY48N2lOdGud0WCDLc8vKnq.png?stacked=true&simplified=false&period=20m" decoding="async" loading="lazy" alt="Graph">
 
 ## Banners
 
