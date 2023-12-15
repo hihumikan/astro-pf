@@ -151,9 +151,14 @@ qqey.netが管理するサーバの稼働状況です。
 
 自宅で管理する場合は基本的に柑橘系の名前で運用します。
 
-### Server Status
+<https://status.qqey.net>
 
-<https://status.qqey.net/>
+### raspi
+
+Raspberry Pi 4 (UD-RP4B4)</br>
+3.7 GiB RAM</br>
+GNU/Linux 5.15.0-1033-raspi Ubuntu 22.04</br>
+<https://raspi.qqey.net>
 
 ### ponkan
 
@@ -162,6 +167,7 @@ ASRock DeskMini A300</br>
 4 x AMD Ryzen 3 3200G with Radeon Vega Graphics</br>
 GNU/Linux 6.2.16-3-pve Debian 12.0</br>
 Proxmox VE 8.0</br>
+<https://ponkan.qqey.net>
 
 ### tunonozomi
 
@@ -169,12 +175,7 @@ Proxmox VE 8.0</br>
 8 x AMD FX(tm)-8150 Eight-Core Processor</br>
 GNU/Linux 6.2.16-3-pve Debian 12.0</br>
 Proxmox VE 8.0</br>
-
-### raspi
-
-Raspberry Pi 4 (UD-RP4B4)</br>
-3.7 GiB RAM</br>
-GNU/Linux 5.15.0-1033-raspi Ubuntu 22.04</br>
+<https://tunonozomi.qqey.net>
 
 ### メトリックス
 
@@ -192,26 +193,26 @@ qqey.net をリンクしてくださる場合は、[CC BY-ND 4.0](https://creati
 <br/>
 
 [png](/banner/png/Banner-icon1.png) / [svg](/banner/svg/Banner-icon1.svg)
-<img src="/banner/png/Banner-icon1.png" width="200">
+<img src="/banner/png/Banner-icon1.png" width="200" decoding="async" loading="lazy">
 
 
 [png](/banner/png/Banner1.png) / [svg](/banner/svg/Banner1.svg)
-<img src="/banner/png/Banner1.png" width="200">
+<img src="/banner/png/Banner1.png" width="200" decoding="async" loading="lazy">
 
 
 [png](/banner/png/Banner2.png) / [svg](/banner/svg/Banner2.svg)
-<img src="/banner/png/Banner2.png" width="200">
+<img src="/banner/png/Banner2.png" width="200" decoding="async" loading="lazy">
 
 ## Reciprocal Link
 
 <a href="https://kusaremkn.com/">
     KusaReMKN.com (KusaReMKN さん)
-    <img src="/banner/webp/kusaremkn.webp" width="200">
+    <img src="/banner/webp/kusaremkn.webp" width="200" decoding="async" loading="lazy">
 </a>
 
 <a href="https://yude.jp/">
     yude のページ (yudejp さん)
-    <img src="/banner/png/yudejp.png" width="200">
+    <img src="/banner/png/yudejp.png" width="200" decoding="async" loading="lazy">
 </a>
 
 <div class="mb-72"></div>
