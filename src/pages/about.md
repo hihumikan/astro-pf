@@ -161,7 +161,7 @@ qqey.netが管理するサーバの稼働状況です。
 ### Self-Hosted Services
 
 - rm9.jp: <https://rm9.jp>
-- Telnet: <telnet://rm9.jp>
+- Telnet: <telnet://telnet.qqey.net>
 - Minecraft: <https://mc.qqey.net>
 - TeamSpeak 3: <https://ts3.qqey.net>
 - Nextcloud: <https://nextcloud.qqey.net>
