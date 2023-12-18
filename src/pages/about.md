@@ -25,7 +25,7 @@ I used to undertake web development at times, but now I am engaged in research o
 
 2024/04 - 2026/03 : Master of Science in Computer Information Systems (anticipated)
 
-I have listed my other internship experiences and work history on Linkdin. (Please inquire via DM for details).
+I have listed my other internship experiences and work history on LinkedIn. (Please inquire via DM for details).
 
 ## Contact
 
