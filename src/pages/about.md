@@ -151,7 +151,23 @@ qqey.netが管理するサーバの稼働状況です。
 
 自宅で管理する場合は基本的に柑橘系の名前で運用します。
 
-<https://status.qqey.net>
+
+### Server Links
+
+- Discord: <https://discord.gg/UTU9f59s>
+- Status(BsetterStack): <https://status.qqey.net>
+- GitHub Organization: <https://github.com/qqey>
+
+### Self-Hosted Services
+
+- rm9.jp: <https://rm9.jp>
+- Telnet: <telnet://rm9.jp>
+- Minecraft: <https://mc.qqey.net>
+- TeamSpeak 3: <https://ts3.qqey.net>
+- Nextcloud: <https://nextcloud.qqey.net>
+- Misskey: <https://misskey.qqey.net>
+
+## Server List
 
 ### raspi
 
