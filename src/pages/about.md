@@ -25,7 +25,7 @@ I used to undertake web development at times, but now I am engaged in research o
 
 2024/04 - 2026/03 : Master of Science in Computer Information Systems (anticipated)
 
-I have listed my other internship experiences and work history on Wantedly. (Please inquire via DM for details).
+I have listed my other internship experiences and work history on Linkdin. (Please inquire via DM for details).
 
 ## Contact
 
@@ -155,7 +155,7 @@ qqey.netが管理するサーバの稼働状況です。
 ### Server Links
 
 - Discord: <https://discord.gg/44kb7bAwtA>
-- Status(BsetterStack): <https://status.qqey.net>
+- Status(BetterStack): <https://status.qqey.net>
 - GitHub Organization: <https://github.com/qqey>
 
 ### Self-Hosted Services
