@@ -154,7 +154,7 @@ qqey.netが管理するサーバの稼働状況です。
 
 ### Server Links
 
-- Discord: <https://discord.gg/UTU9f59s>
+- Discord: <https://discord.gg/44kb7bAwtA>
 - Status(BsetterStack): <https://status.qqey.net>
 - GitHub Organization: <https://github.com/qqey>
 
