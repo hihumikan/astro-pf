@@ -149,7 +149,7 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
 
 qqey.netが管理するサーバの稼働状況です。
 
-自宅で管理する場合は基本的に柑橘系の名前で運用します。
+自宅で管理する場合は基本的に果物(主に柑橘)の名前で運用します。
 
 
 ### Server Links
@@ -204,7 +204,7 @@ GNU/Linux 5.15.0-1045-oracle Ubuntu 22.04</br>
 OSA (Osaka, Japan)</br>
 <https://oracle.qqey.net>
 
-### Vultr
+### vultr
 
 452 MiB RAM</br>
 1 x Intel Xeon Processor (Skylake, IBRS)</br>
