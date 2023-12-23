@@ -204,6 +204,14 @@ GNU/Linux 5.15.0-1045-oracle Ubuntu 22.04</br>
 OSA (Osaka, Japan)</br>
 <https://oracle.qqey.net>
 
+### Vultr
+
+452 MiB RAM</br>
+1 x Intel Xeon Processor (Skylake, IBRS)</br>
+GNU/Linux 6.1.0-15-amd64 Debian 12.4</br>
+SEA (Seattle, US)</br>
+<https://vultr.qqey.net>
+
 ### メトリックス
 
 #### cpu.{user,iowait,system}
