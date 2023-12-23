@@ -117,8 +117,6 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
       <p>某油そば店のトッピングを300円ガチャでランダムに教えてくれるWebアプリ。</p>
       <a href="https://github.com/hihumikan/kitaQ-teamC">おとんとおかん</a>
       <p>某インターンのハッカソンで制作。健康づくりを推進したい人のための食事・運動レビューサービス。おとんとおかんから健康のための知識を得て、日々の生活に役立てることが出来る。</p>
-      <a href="https://youtu.be/PrmSbCjV3Jw">調味料残量可視化できる蔵</a>
-      <p>外からでも調味料の量を確認可能にするアプリ。調味料の量を確認することによって、買い忘れを防ぐことが出来る。</p>
       <a href="https://github.com/hihumikan/SlackBot_LINEStamp_Go">Slackbot-LINEstamp-go</a>
       <p>SlackbotでLINEstampが使えるbot。</p>
       <a href="https://github.com/hihumikan/iphonepokusuruyatu">iphonepokusuruyatu</a>
@@ -151,12 +149,12 @@ qqey.netが管理するサーバの稼働状況です。
 
 自宅で管理する場合は基本的に果物(主に柑橘)の名前で運用します。
 
-
 ### Server Links
 
 - Discord: <https://discord.gg/44kb7bAwtA>
 - Status(BetterStack): <https://status.qqey.net>
 - GitHub Organization: <https://github.com/qqey>
+- Wiki(wikiey): <https://wiki.qqey.net>
 
 ### Self-Hosted Services
 
