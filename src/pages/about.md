@@ -214,8 +214,11 @@ SEA (Seattle, US)</br>
 
 #### cpu.{user,iowait,system}
 
-※稼働していない時が多いです。
-<img src="https://mackerel.io/embed/public/embed/cFyMKzwmkNZIjwKK3EVvdC3nWnSRkySxJxxiR0GhLoY48N2lOdGud0WCDLc8vKnq.png?stacked=true&simplified=false&period=20m" decoding="async" loading="lazy" alt="Graph">
+<a href="https://mackerel.io/orgs/qqey/services/kankitu/mikan/-/graphs?name=memory.available#period=10m"><img src="https://mackerel.io/embed/public/embed/cFyMKzwmkNZIjwKK3EVvdC3nWnSRkySxJxxiR0GhLoY48N2lOdGud0WCDLc8vKnq.png?stacked=true&simplified=false&period=20m" decoding="async" loading="lazy" alt="Graph"></a>
+
+#### interface.{rxBytes}
+
+<a href="https://mackerel.io/orgs/qqey/services/kankitu/mikan/-/graphs?name=interface.rxBytes#period=10m"><img src="https://mackerel.io/embed/public/embed/gTKy60UjOeoFjSkIMnuWOLlgiQ8uxNbtW0dxcFvLbjz9JDwJQtiFVLva492vxvTP.png?period=10m&amp;simplified=false&amp;stacked=true" decoding="async" loading="lazy" alt="Graph"></a>
 
 ## Banners
 
