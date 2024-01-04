@@ -7,6 +7,14 @@ layout: ../layouts/Layout.astro
 
 <img src="https://avatars.githubusercontent.com/u/26848713?v=4" width="200" height="200" alt="profile_image" decoding="async" loading="lazy">
 
+<div class="text-white">
+  もう一つのプロフィール画像
+</div>
+
+<div class="text-white">
+  $ curl https://qqey.net/tmp/profile
+</div>
+
 ## Name
 
 hihumikan / mikan_54951
