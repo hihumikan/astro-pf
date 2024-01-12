@@ -62,9 +62,9 @@ import "@fontsource/kumbh-sans";
   </footer>
   <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
   <div class="sm:flex sm:items-center sm:justify-around">
-    <span class="text-sm text-gray-500 sm:text-center"
-      >© 2023 <a href="/" class="hover:underline"> qqey.net</a>
-    </span>
+    <span id="currentYear" class="text-sm text-gray-500 sm:text-center">
+      © <a href="/" class="hover:underline">qqey.net</a>
+  </span>
     <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
       <a
         href="https://twitter.com/mikan_54951"
@@ -100,3 +100,9 @@ import "@fontsource/kumbh-sans";
     </div>
   </div>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+      var currentYear = new Date().getFullYear();
+      document.getElementById('currentYear').innerText = '© ' + currentYear + ' qqey.net'; });
+</script>
