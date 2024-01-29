@@ -103,7 +103,7 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
 
 > オンライン勉強会は、主催者も受講者手間が掛かるのを解決したオンラインプラットフォーム。主催者は資料や配信URLなどの共有ができ、参加者は1つのウィンドウで資料・配信・チャットを見ることが出来る。
 
-2022/06: 技育CAMP vol3 2022 / [人の入り見れる蔵](https://github.com/SystemEngineeringTeam/geekcamp-2022-vol3) 努力賞
+2022/06: 技育CAMP vol3 2022 / [人の入り見れる蔵](https://youtu.be/aXrKhL0umm0?si=VHtsiyn_r3D0u9Dg) 努力賞
 
 > スマートフォンから送られてくるビーコン情報をRaspberry Piで受信し、部屋の入退室管理を行うもの。 また、現在誰が部屋にいるのか、Web上で確認することが出来る。
 
