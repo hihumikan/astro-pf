@@ -157,21 +157,26 @@ qqey.netが管理するサーバの稼働状況です。
 
 自宅で管理する場合は基本的に果物(主に柑橘)の名前で運用します。
 
-### Server Links
+[各種サーバーの状況](https://status.qqey.net)
+
+### qqey.net
+
+#### Services
+
+- Wiki(wikiey): <https://wiki.qqey.net>
+- Telnet: <telnet://telnet.qqey.net>
+- Minecraft(VPN): <https://mc.qqey.net>
+- Nextcloud(VPN): <https://nextcloud.qqey.net>
+- Misskey: <https://misskey.qqey.net>
+
+#### Community
 
 - Discord: <https://discord.gg/44kb7bAwtA>
-- Status(BetterStack): <https://status.qqey.net>
 - GitHub Organization: <https://github.com/qqey>
-- Wiki(wikiey): <https://wiki.qqey.net>
 
-### Self-Hosted Services
+### rm9.jp
 
 - rm9.jp: <https://rm9.jp>
-- Telnet: <telnet://telnet.qqey.net>
-- Minecraft: <https://mc.qqey.net>
-- TeamSpeak 3: <https://ts3.qqey.net>
-- Nextcloud: <https://nextcloud.qqey.net>
-- Misskey: <https://misskey.qqey.net>
 
 ## Server List
 
