@@ -137,7 +137,7 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
   </details>
 </div>
 
-## Publications and Contributions
+## LT & Books
 
 2022/04/05: [キャリアセレクト:【聞き専も大歓迎】テーマ自由のLT会！オンラインでお気軽に参加しませんか？](https://careerselect-studygroup.connpass.com/event/242576/)
 
