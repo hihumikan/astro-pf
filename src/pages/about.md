@@ -118,21 +118,27 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
     </summary>
     <div class="p-4 border-2 border-gray-100">
       <a href="https://github.com/SystemEngineeringTeam/set-web-ver-2021">set-web-ver-2021</a>
-      <p>シス研新webページ。</p>
+      <p>シス研の2022年度のホームページを作成。</p>
       <a href="https://github.com/usabilityTeam9/SMDGetTweet">愛工大MELTDOWN</a>
       <p>愛工大の面白スポットを#AITMELTDOWN と位置情報付きでTwitterで共有することにより、それらをMAP上に表示してくれるWebアプリ。</p>
       <a href="https://github.com/usabilityTeam9/kajiken_topping_gacha">kajiken-topping-gacha</a>
       <p>某油そば店のトッピングを300円ガチャでランダムに教えてくれるWebアプリ。</p>
       <a href="https://github.com/hihumikan/kitaQ-teamC">おとんとおかん</a>
-      <p>某インターンのハッカソンで制作。健康づくりを推進したい人のための食事・運動レビューサービス。おとんとおかんから健康のための知識を得て、日々の生活に役立てることが出来る。</p>
+      <p>健康づくりを推進したい人のための食事・運動レビューサービス。おとんとおかんから健康のための知識を得て、日々の生活に役立てることが出来る。</p>
       <a href="https://github.com/hihumikan/SlackBot_LINEStamp_Go">Slackbot-LINEstamp-go</a>
-      <p>SlackbotでLINEstampが使えるbot。</p>
+      <p>SlackbotでLINEstampが使えるSlackbot。Slackに入れるだけ。スタンプを保持してくれる。</p>
       <a href="https://github.com/hihumikan/iphonepokusuruyatu">iphonepokusuruyatu</a>
       <p>YoutubeのTwitter共有をiPhoneと同じ形式にするAndroidアプリ。</p>
       <a href="https://github.com/hihumikan/KachiDen">カチカチ君付き電卓</a>
-      <p>名前の通り、カチカチ君付きの電卓。</p>
+      <p>Java Swingで動くカチカチ君付きの電卓。電卓は実物の電卓と同じ挙動をする。</p>
       <a href="https://github.com/hihumikan/hihumikan.github.io">PassWordGenerator</a>
-      <p>パスワード生成アプリクローン。 jsしか動いていないのでセキュア。</p>
+      <p>パスワード生成アプリクローン。 クライアントしか動いていないのでセキュアかつ、ソースコードを公開している。</p>
+      <a href="https://github.com/hihumikan/GeminiMan">GeminiMan</a>
+      <p>The Sniperを再現したUnity製ゲーム。もう一人の自分を倒せ！</p>
+      <a href="https://github.com/hihumikan/laravel_schedulerAPP">laravel_schedulerAPP</a>
+      <p>laravelで作成したスケジューラーアプリ。ユーザー管理、スケジュール管理、カレンダー表示、スケジュールのCRUDが可能。</p>
+      <a href="https://github.com/SystemEngineeringTeam/tenno-hai-front">tenno-hai-front</a>
+      <p>天皇杯(インフラ)の練習を行うためのWebアプリ。練習が様々あり、クリアごとにポイントがもらえる。</p>
     </div>
   </details>
 </div>
