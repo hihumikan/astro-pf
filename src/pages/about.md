@@ -29,7 +29,7 @@ I am a system software developer, and I develop extensively from the application
 
 2020/04 - 2024/03 : Bachelor of Science in Computer Information Systems
 
-2024/04 - 2026/03 : Master of Science in Computer Information Systems (anticipated)
+2024/04 - 2026/03 : Master of Science in Computer Information Systems
 
 I have listed my other internship experiences and work history on LinkedIn.
 
