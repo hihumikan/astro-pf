@@ -176,6 +176,7 @@ qqey.netが管理するサーバの稼働状況です。
 - Minecraft(VPN): <https://mc.qqey.net>
 - Nextcloud(VPN): <https://nextcloud.qqey.net>
 - Misskey: <https://misskey.qqey.net>
+- Vaultwarden: <https://vault.qqey.net>
 
 #### Community
 
