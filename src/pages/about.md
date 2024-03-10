@@ -143,7 +143,9 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
   </details>
 </div>
 
-## LT & Books
+## LT & Books & Events
+
+2018/11/11: [第31回愛知県高等学校文化連盟尾張支部写真展: 作品展示(奨励賞)](https://www.flickr.com/photos/169243594@N04/46685172022/in/dateposted-public/)
 
 2022/04/05: [キャリアセレクト:【聞き専も大歓迎】テーマ自由のLT会！オンラインでお気軽に参加しませんか？](https://careerselect-studygroup.connpass.com/event/242576/)
 
