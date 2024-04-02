@@ -12,11 +12,11 @@ dependencies:
     specifier: ^5.1.0
     version: 5.1.0(astro@4.5.12)(tailwindcss@3.3.3)
   '@fontsource/kumbh-sans':
-    specifier: ^5.0.8
-    version: 5.0.8
+    specifier: ^5.0.19
+    version: 5.0.19
   '@fontsource/noto-sans-jp':
-    specifier: ^5.0.10
-    version: 5.0.10
+    specifier: ^5.0.18
+    version: 5.0.18
   '@types/react':
     specifier: ^18.2.21
     version: 18.2.21
@@ -909,12 +909,12 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource/kumbh-sans@5.0.8:
-    resolution: {integrity: sha512-rznFG75T9XNImUM1vzd8Jga09C9Ar+Sgszp+NrBJcbYhLnkSlxZ3Me7ThR9u0ad27u3cj8ELtljq0+KLFOsyLA==}
+  /@fontsource/kumbh-sans@5.0.19:
+    resolution: {integrity: sha512-QvHEbXZA0thOQhQJo9gFFLQGFlolbJLHvXxMwXsJPk8rwkoBg1FYbvgiSQAFOQRcf1Bkm2a9MV/awyqgJ6vnDQ==}
     dev: false
 
-  /@fontsource/noto-sans-jp@5.0.10:
-    resolution: {integrity: sha512-ArPDBnOSzNeeSTpdATnQJnKukJqWxmv53IpPjER2LKTcP4MQ6l89pFGg4n+TtLkdkUMsQEfkffBMR6GrpYQIYw==}
+  /@fontsource/noto-sans-jp@5.0.18:
+    resolution: {integrity: sha512-tIXpfwpwxxn/Gl60fj2w4R7JK1ZQnE2onyY6saEvAdG42MzgvVZ3xsCUIlyhRtkTCB0qukfSj+eZ8tyS7Yxkuw==}
     dev: false
 
   /@img/sharp-darwin-arm64@0.33.0:
