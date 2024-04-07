@@ -21,7 +21,7 @@ hihumikan / mikan_54951
 
 ## Bio
 
-Bachelor of Science in Computer Information Systems
+Master of Science in Computer Information Systems
 
 I am a system software developer, and I develop extensively from the application layer to the infrastructure domain.
 
