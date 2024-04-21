@@ -215,7 +215,7 @@ GNU/Linux 6.5.0-1016-gcp Ubuntu 22.04</br>
 OR (Oregon, US)</br>
 <https://gcp1.qqey.net>
 
-### ponkan
+### ponkan(Dev)
 
 ASRock DeskMini A300</br>
 14 GiB RAM</br>
@@ -224,9 +224,8 @@ GNU/Linux 6.2.16-3-pve Debian 12.0</br>
 Proxmox VE 8.1</br>
 NGO (Nagoya, Japan)</br>
 <https://ponkan.qqey.net></br>
-Development
 
-### tunonozomi
+### tunonozomi(Dev)
 
 16 GiB RAM</br>
 8 x AMD FX(tm)-8150 Eight-Core Processor</br>
@@ -234,7 +233,6 @@ GNU/Linux 6.2.16-3-pve Debian 12.0</br>
 Proxmox VE 8.1</br>
 NGO (Nagoya, Japan)</br>
 <https://tunonozomi.qqey.net></br>
-Development
 
 ### メトリックス
 
