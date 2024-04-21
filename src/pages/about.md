@@ -163,7 +163,7 @@ Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / A
 
 qqey.netが管理するサーバの稼働状況です。
 
-自宅で管理する場合は基本的に果物(主に柑橘)の名前で運用します。
+自宅で管理する場合は基本的に果物(主に柑橘)の名前、パブリッククラウドの場合はそのままの名前で運用します。
 
 [死活状況](https://status.qqey.net)
 
@@ -198,7 +198,6 @@ Raspberry Pi 4 (UD-RP4B4)</br>
 GNU/Linux 5.15.0-1033-raspi Ubuntu 22.04</br>
 NGO (Nagoya, Japan)</br>
 <https://raspi.qqey.net>
-
 
 ### oracle
 
