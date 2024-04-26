@@ -211,7 +211,7 @@ OSA (Osaka, Japan)</br>
 
 0.93 GiB RAM</br>
 2 x Intel(R) Xeon(R) CPU</br>
-GNU/Linux 6.5.0-1016-gcp Ubuntu 22.04</br>
+GNU/Linux 6.8.0-1007-gcp Ubuntu 24.04</br>
 OR (Oregon, US)</br>
 <https://gcp1.qqey.net>
 
