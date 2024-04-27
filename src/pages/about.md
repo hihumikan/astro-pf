@@ -165,7 +165,7 @@ qqey.netが管理するサーバの稼働状況です。
 
 自宅で管理する場合は基本的に果物(主に柑橘)の名前、パブリッククラウドの場合はそのままの名前で運用します。
 
-[死活状況](https://status.qqey.net)
+[死活状況](https://status.qqey.net/status/all)
 
 [モニタリング](https://p.us5.datadoghq.com/sb/4fb7a794-c2c4-11ed-a92e-da7ad0900005-93b7b2a7ae80234924077fbaf36df708)
 
