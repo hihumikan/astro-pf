@@ -175,9 +175,6 @@ qqey.netが管理するサーバの稼働状況です。
 
 - Wiki(wikiey): <https://wiki.qqey.net>
 - Telnet: <telnet://telnet.qqey.net>
-- Minecraft(VPN): <https://mc.qqey.net>
-- Nextcloud(VPN): <https://nextcloud.qqey.net>
-- Misskey: <https://misskey.qqey.net>
 - Vaultwarden: <https://vault.qqey.net>
 
 #### Community
