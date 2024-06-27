@@ -12,13 +12,13 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/react": "^3.3.4",
+    "@astrojs/react": "^3.6.0",
     "@astrojs/tailwind": "^5.1.0",
     "@fontsource/kumbh-sans": "^5.0.19",
     "@fontsource/noto-sans-jp": "^5.0.18",
     "@types/react": "^18.2.74",
     "@types/react-dom": "^18.2.23",
-    "astro": "^4.8.5",
+    "astro": "^4.11.3",
     "astro-particles": "^2.10.0",
     "astro-seo": "^0.8.3",
     "github-markdown-css": "^5.5.1",
