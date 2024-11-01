@@ -31,10 +31,6 @@ I am a system software developer, and I develop extensively from the application
 
 2024/04 - 2026/03 : Master of Science in Computer Information Systems
 
-I have listed my other internship experiences and work history on LinkedIn.
-
-Please inquire via DM for details.
-
 ## Contact
 
 X(Twitter): [@mikan_54951](https://twitter.com/mikan_54951)
@@ -173,18 +169,13 @@ qqey.netが管理するサーバの稼働状況です。
 
 #### Services
 
-- Wiki(wikiey): <https://wiki.qqey.net>
+- Wiki: <https://wiki.qqey.net>
 - Telnet: <telnet://telnet.qqey.net>
-- Vaultwarden: <https://vault.qqey.net>
 
 #### Community
 
 - Discord: <https://discord.gg/44kb7bAwtA>
 - GitHub Organization: <https://github.com/qqey>
-
-### rm9.jp
-
-- rm9.jp: <https://rm9.jp>
 
 ## Server List
 
