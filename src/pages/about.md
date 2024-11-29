@@ -163,8 +163,6 @@ qqey.netが管理するサーバの稼働状況です。
 
 [死活状況](https://status.qqey.net/status/all)
 
-[モニタリング](https://p.us5.datadoghq.com/sb/4fb7a794-c2c4-11ed-a92e-da7ad0900005-93b7b2a7ae80234924077fbaf36df708)
-
 ### qqey.net
 
 #### Services
@@ -179,29 +177,37 @@ qqey.netが管理するサーバの稼働状況です。
 
 ## Server List
 
-### raspi
+### oracle1
+
+12 GiB RAM</br>
+2 x Neoverse-N1</br>
+ GNU/Linux 6.8.0-1013-oracle Ubuntu 24.04</br>
+OSA (Osaka, Japan)</br>
+<http://oracle1.qqey.net>
+
+### oracle2
+
+12 GiB RAM</br>
+2 x Neoverse-N1</br>
+ GNU/Linux 6.8.0-1013-oracle Ubuntu 24.04</br>
+OSA (Osaka, Japan)</br>
+<http://oracle2.qqey.net>
+
+### gcp
+
+0.95 GiB RAM</br>
+2 x Intel(R) Xeon(R) CPU @ 2.20GHz</br>
+GNU/Linux 6.1.0-27-cloud-amd64 Debian 12.8</br>
+IA (Iowa, US)</br>
+<https://gcp.qqey.net>
+
+### raspi(Dev)
 
 Raspberry Pi 4 (UD-RP4B4)</br>
 3.7 GiB RAM</br>
 GNU/Linux 5.15.0-1033-raspi Ubuntu 22.04</br>
 NGO (Nagoya, Japan)</br>
 <https://raspi.qqey.net>
-
-### oracle
-
-23 GiB RAM</br>
-4 x Neoverse-N1</br>
-GNU/Linux 5.15.0-1045-oracle Ubuntu 22.04</br>
-OSA (Osaka, Japan)</br>
-<https://oracle.qqey.net>
-
-### gcp1
-
-0.93 GiB RAM</br>
-2 x Intel(R) Xeon(R) CPU</br>
-GNU/Linux 6.8.0-1007-gcp Ubuntu 24.04</br>
-OR (Oregon, US)</br>
-<https://gcp1.qqey.net>
 
 ### ponkan(Dev)
 
