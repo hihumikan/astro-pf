@@ -25,7 +25,7 @@ hihumikan / mikan_54951
 
 2024/04 - 2026/03 : Master of Science in Computer Information Systems
 
-2026/04 -  : Japanese Internet Service Provider, Tokyo, Japan
+2026/04 -  : Internet Service Provider, Tokyo, Japan
 
 
 ## Contact
