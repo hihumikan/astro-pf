@@ -19,17 +19,14 @@ layout: ../layouts/Layout.astro
 
 hihumikan / mikan_54951
 
-## Bio
-
-Master of Science in Computer Information Systems
-
-I am a system software developer, and I develop extensively from the application layer to the infrastructure domain.
-
 ## Careers
 
 2020/04 - 2024/03 : Bachelor of Science in Computer Information Systems
 
 2024/04 - 2026/03 : Master of Science in Computer Information Systems
+
+2026/04 -  : Japanese Internet Service Provider, Tokyo, Japan
+
 
 ## Contact
 
@@ -37,17 +34,8 @@ X(Twitter): [@mikan_54951](https://twitter.com/mikan_54951)
 
 GitHub: [@hihumikan](https://github.com/hihumikan)
 
-Keybase: [@hihumikan](https://keybase.io/hihumikan)
-
 Mail: [a[at]qqey.net](mailto:a@qqey.net)
 
-LAPRAS: [@NF3FKZY](https://lapras.com/public/NF3FKZY)
-
-Qiita: [@hihumikan](https://qiita.com/hihumikan)
-
-Zenn: [@hihumikan](https://zenn.dev/hihumikan)
-
-scrapbox: [@hihumikan](https://scrapbox.io/dev-hihumikan)
 
 ## Interests
 
@@ -56,22 +44,6 @@ scrapbox: [@hihumikan](https://scrapbox.io/dev-hihumikan)
 - System Software development
 
 ## Technical Skills
-
-### Frontend
-
-JavaScript / TypeScript / React(Next.js) / Vue.js(Nuxt.js) / Astro / Unity
-
-### Backend
-
-PHP(Laravel) / Ruby(Rails) / Java(Kotlin) / Golang / Python
-
-### Infrastructure
-
-Private,PublicCloud(AWS,OCI) / OpenStack / Kubernetes / Network
-
-### Tools
-
-Git / GitHub / Backlog / Slack / esa.io / Notion / Figma / Adobe Illustrator / Adobe Photoshop
 
 ### License
 
@@ -163,19 +135,6 @@ qqey.netが管理するサーバの稼働状況です。
 
 [死活状況](https://status.qqey.net/status/all)
 
-### qqey.net
-
-#### Services
-
-- Wiki: <https://wiki.qqey.net>
-- Telnet: <telnet://telnet.qqey.net>
-
-#### Community
-
-- Discord: <https://discord.gg/44kb7bAwtA>
-- GitHub Organization: <https://github.com/qqey>
-
-## Server List
 
 ### oracle1
 
