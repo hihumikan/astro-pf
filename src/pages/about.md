@@ -3,7 +3,7 @@ layout: ../layouts/Layout.astro
 
 ---
 
-## About 
+## About
 
 <img src="https://avatars.githubusercontent.com/u/26848713?v=4" width="200" height="200" alt="profile_image" decoding="async" loading="lazy">
 
@@ -27,8 +27,7 @@ hihumikan / mikan_54951
 
 2026/04 -  : Internet Service Provider, Tokyo, Japan
 
-
-## Contact
+## Links
 
 X(Twitter): [@mikan_54951](https://twitter.com/mikan_54951)
 
@@ -36,12 +35,19 @@ GitHub: [@hihumikan](https://github.com/hihumikan)
 
 Mail: [a[at]qqey.net](mailto:a@qqey.net)
 
+Cosense: [/dev-hihumikan](https://scrapbox.io/dev-hihumikan/)
 
-## Interests
+Qiita: [@hihumikan](https://qiita.com/hihumikan)
 
-- Web application development (Frontend,Backend)
-- Infrastructure (Networking, Server (On-premises, Cloud))
-- System Software development
+Zenn: [@hihumikan](https://zenn.dev/hihumikan)
+
+## About Me
+
+I have worked on web application development, as well as the design and construction of infrastructure such as EtherNet/IP networks and Linux servers, and the development of IoT-related systems.
+
+In my master’s program in informatics, I conducted research and development on indoor positioning and distributed network coordination.
+
+Moving forward, I aim to leverage the knowledge and implementation experience I have gained to contribute to system development that creates social value from both the advancement of network infrastructure and the creation of new services.
 
 ## Technical Skills
 
@@ -51,40 +57,27 @@ Mail: [a[at]qqey.net](mailto:a@qqey.net)
 
 ## Projects
 
-2020/09: Open Hack U 2020 Vol.3 / [SpeedMania](https://github.com/furukawaTakumi/Hack-U-vol3)
-
-> 現在の通信速度によって、ストレージを通信のまま送るか、手で持って行ったほうが早いのかを判断するwebアプリケーション。
-
-2021/03: 愛知工業大学 システム工学研究会 / [大学内講義レビューアプリ](https://github.com/SystemEngineeringTeam/hackathon_team_b)
-
-> 大学の履修決めの際に、サークルや友達の伝手が無くとも情報を得ることが出来るwebアプリケーション。
-
-2021/07: 技育CAMP vol5 2021 / [ドーパミン放出アプリ](https://github.com/SystemEngineeringTeam/geekcamp-vol5)
-
-> 開発者が集中して開発出来るようにしたいという問題から、ドーパミンを分泌させるように誘導するwebアプリ。やる気が出ないときにアプリを開くことによって、やる気を増幅させてくれる。
-
-2021/10: 愛工大祭「工科展」 / [シス研人数出る蔵](https://github.com/SystemEngineeringTeam/koukaten2021) 最優秀賞
-
-> Webカメラで撮った部屋の写真から人体を検出し、部屋に滞在している人数を教えてくれるシステム。
-
-2022/03: Open Hack U 2021 Vol.3 / [S.S.R.](https://github.com/SystemEngineeringTeam/HackU-2021-vol3)
-
-> オンライン勉強会は、主催者も受講者手間が掛かるのを解決したオンラインプラットフォーム。主催者は資料や配信URLなどの共有ができ、参加者は1つのウィンドウで資料・配信・チャットを見ることが出来る。
-
-2022/06: 技育CAMP vol3 2022 / [人の入り見れる蔵](https://youtu.be/aXrKhL0umm0?si=VHtsiyn_r3D0u9Dg) 努力賞
-
-> スマートフォンから送られてくるビーコン情報をRaspberry Piで受信し、部屋の入退室管理を行うもの。 また、現在誰が部屋にいるのか、Web上で確認することが出来る。
-
-2022/10: 第3回ナノコン応用コンテスト / [調味料残量可視化できる蔵](https://youtu.be/PrmSbCjV3Jw) ナノコン応用賞
-
-> キッチンにある調味料の残量を把握することができ、買い忘れや買い過ぎを防止に役立つ。
-
 <div class="space-y-2">
   <details class="transition-transform overflow-hidden">
-    <summary class="block py-3 transition-bg transform-translate hover:cursor-pointer">
-    More...
+    <summary class="list-none inline-flex w-fit items-center rounded-md border border-gray-600 bg-gray-800 px-4 py-2 font-medium text-gray-100 shadow-sm transition-colors hover:cursor-pointer hover:bg-gray-700">
+    Show more
     </summary>
-    <div class="p-4 border-2 border-gray-100">
+    <div class="p-4 border-2 border-gray-100 space-y-2">
+      <p><strong>Projects</strong></p>
+      <p>2020/09: Open Hack U 2020 Vol.3 / <a href="https://github.com/furukawaTakumi/Hack-U-vol3">SpeedMania</a></p>
+      <p>現在の通信速度によって、ストレージを通信のまま送るか、手で持って行ったほうが早いのかを判断するwebアプリケーション。</p>
+      <p>2021/03: 愛知工業大学 システム工学研究会 / <a href="https://github.com/SystemEngineeringTeam/hackathon_team_b">大学内講義レビューアプリ</a></p>
+      <p>大学の履修決めの際に、サークルや友達の伝手が無くとも情報を得ることが出来るwebアプリケーション。</p>
+      <p>2021/07: 技育CAMP vol5 2021 / <a href="https://github.com/SystemEngineeringTeam/geekcamp-vol5">ドーパミン放出アプリ</a></p>
+      <p>開発者が集中して開発出来るようにしたいという問題から、ドーパミンを分泌させるように誘導するwebアプリ。やる気が出ないときにアプリを開くことによって、やる気を増幅させてくれる。</p>
+      <p>2021/10: 愛工大祭「工科展」 / <a href="https://github.com/SystemEngineeringTeam/koukaten2021">シス研人数出る蔵</a> 最優秀賞</p>
+      <p>Webカメラで撮った部屋の写真から人体を検出し、部屋に滞在している人数を教えてくれるシステム。</p>
+      <p>2022/03: Open Hack U 2021 Vol.3 / <a href="https://github.com/SystemEngineeringTeam/HackU-2021-vol3">S.S.R.</a></p>
+      <p>オンライン勉強会は、主催者も受講者手間が掛かるのを解決したオンラインプラットフォーム。主催者は資料や配信URLなどの共有ができ、参加者は1つのウィンドウで資料・配信・チャットを見ることが出来る。</p>
+      <p>2022/06: 技育CAMP vol3 2022 / <a href="https://youtu.be/aXrKhL0umm0?si=VHtsiyn_r3D0u9Dg">人の入り見れる蔵</a> 努力賞</p>
+      <p>スマートフォンから送られてくるビーコン情報をRaspberry Piで受信し、部屋の入退室管理を行うもの。 また、現在誰が部屋にいるのか、Web上で確認することが出来る。</p>
+      <p>2022/10: 第3回ナノコン応用コンテスト / <a href="https://youtu.be/PrmSbCjV3Jw">調味料残量可視化できる蔵</a> ナノコン応用賞</p>
+      <p>キッチンにある調味料の残量を把握することができ、買い忘れや買い過ぎを防止に役立つ。</p>
       <a href="https://github.com/SystemEngineeringTeam/set-web-ver-2021">set-web-ver-2021</a>
       <p>シス研の2022年度のホームページを作成。</p>
       <a href="https://github.com/usabilityTeam9/SMDGetTweet">愛工大MELTDOWN</a>
@@ -107,31 +100,19 @@ Mail: [a[at]qqey.net](mailto:a@qqey.net)
       <p>laravelで作成したスケジューラーアプリ。ユーザー管理、スケジュール管理、カレンダー表示、スケジュールのCRUDが可能。</p>
       <a href="https://github.com/SystemEngineeringTeam/tenno-hai-front">tenno-hai-front</a>
       <p>天皇杯(インフラ)の練習を行うためのWebアプリ。練習が様々あり、クリアごとにポイントがもらえる。</p>
+      <p class="pt-4"><strong>LT & Books & Events</strong></p>
+      <p>2018/11/11: <a href="https://www.flickr.com/photos/169243594@N04/46685172022/in/dateposted-public/">第31回愛知県高等学校文化連盟尾張支部写真展: 作品展示(奨励賞)</a></p>
+      <p>2022/04/05: <a href="https://careerselect-studygroup.connpass.com/event/242576/">キャリアセレクト:【聞き専も大歓迎】テーマ自由のLT会！オンラインでお気軽に参加しませんか？</a></p>
+      <p>2022/05/07: <a href="https://sysken.connpass.com/event/243739/">愛知工業大学システム工学研究会: 学生団体LT会(Online)</a></p>
+      <p>2022/06/25: <a href="https://talent.supporterz.jp/geekhaku/2022/">サポーターズ:技育博</a></p>
+      <p>2022/09/27: <a href="https://careerselect-studygroup.connpass.com/event/258392/">キャリアセレクト:【エンジニアを目指す学生限定】 サマーインターン成果発表会</a></p>
+      <p>2022/12/26: <a href="https://www.youtube.com/live/TvhWFQRtsYE?feature=share">愛知工業大学システム工学研究会: 2022冬のLT会(Online)</a></p>
+      <p>2023/05/28: <a href="https://gishohaku.dev/gishohaku8/circles/Tk2mFiVwcTvT0jQJJA0s">技術書同人誌博覧会: Syskenの技術本 様々な技術を詰め合わせてみました。(寄稿と校正)</a></p>
     </div>
   </details>
 </div>
 
-## LT & Books & Events
-
-2018/11/11: [第31回愛知県高等学校文化連盟尾張支部写真展: 作品展示(奨励賞)](https://www.flickr.com/photos/169243594@N04/46685172022/in/dateposted-public/)
-
-2022/04/05: [キャリアセレクト:【聞き専も大歓迎】テーマ自由のLT会！オンラインでお気軽に参加しませんか？](https://careerselect-studygroup.connpass.com/event/242576/)
-
-2022/05/07: [愛知工業大学システム工学研究会: 学生団体LT会(Online)](https://sysken.connpass.com/event/243739/)
-
-2022/06/25: [サポーターズ:技育博](https://talent.supporterz.jp/geekhaku/2022/)
-
-2022/09/27: [キャリアセレクト:【エンジニアを目指す学生限定】 サマーインターン成果発表会](https://careerselect-studygroup.connpass.com/event/258392/)
-
-2022/12/26: [愛知工業大学システム工学研究会: 2022冬のLT会(Online)](https://www.youtube.com/live/TvhWFQRtsYE?feature=share)
-
-2023/05/28: [技術書同人誌博覧会: Syskenの技術本 様々な技術を詰め合わせてみました。(寄稿と校正)](https://gishohaku.dev/gishohaku8/circles/Tk2mFiVwcTvT0jQJJA0s)
-
 ## Server
-
-qqey.netが管理するサーバの稼働状況です。
-
-自宅で管理する場合は基本的に果物(主に柑橘)の名前、パブリッククラウドの場合はそのままの名前で運用します。
 
 [死活状況](https://status.qqey.net/status/all)
 
@@ -200,8 +181,6 @@ NGO (Nagoya, Japan)</br>
 ## Banners
 
 qqey.net をリンクしてくださる場合は、[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.ja)にて利用可能です。
-
-直リンクすると利用できなくなる可能性がありますので、ご注意ください。
 
 <br/>
 
