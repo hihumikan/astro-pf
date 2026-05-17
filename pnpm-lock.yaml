@@ -17,9 +17,6 @@ dependencies:
   astro:
     specifier: ^5.17.3
     version: 5.17.3(@types/node@20.19.4)(typescript@5.8.3)
-  astro-particles:
-    specifier: ^2.10.0
-    version: 2.10.0
   astro-seo:
     specifier: ^0.8.4
     version: 0.8.4(typescript@5.8.3)
@@ -1635,12 +1632,6 @@ packages:
 
   /array-iterate@2.0.1:
     resolution: {integrity: sha512-I1jXZMjAgCMmxT4qxXfPXa6SthSoE8h6gkSI9BGGNv8mP8G/v0blc+qFnZu6K42vTOiuME596QaLO0TP3Lk0xg==}
-    dev: false
-
-  /astro-particles@2.10.0:
-    resolution: {integrity: sha512-DE1azMdcu2dkXxEKd7seoRqbhlh4UnTfinWM+RF5jm00tPtaJ+cjrz5nKHRnzYcyTAR18MaRAC4lIKf3tu86iQ==}
-    dependencies:
-      tsparticles-engine: 2.12.0
     dev: false
 
   /astro-seo@0.8.4(typescript@5.8.3):
@@ -4059,12 +4050,6 @@ packages:
     resolution: {integrity: sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==}
     requiresBuild: true
     optional: true
-
-  /tsparticles-engine@2.12.0:
-    resolution: {integrity: sha512-ZjDIYex6jBJ4iMc9+z0uPe7SgBnmb6l+EJm83MPIsOny9lPpetMsnw/8YJ3xdxn8hV+S3myTpTN1CkOVmFv0QQ==}
-    deprecated: starting from tsparticles v3 the packages are now moved to @tsparticles/package-name instead of tsparticles-package-name
-    requiresBuild: true
-    dev: false
 
   /type-fest@4.41.0:
     resolution: {integrity: sha512-TeTSQ6H5YHvpqVwBRcnLDCBnDOHWYu7IvGbHT6N8AOymcr9PJGjc1GTtiWZTYg0NCgYwvnYWEkVChQAr9bjfwA==}
