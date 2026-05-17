@@ -37,9 +37,19 @@ Mail: [a[at]qqey.net](mailto:a@qqey.net)
 
 Cosense: [/dev-hihumikan](https://scrapbox.io/dev-hihumikan/)
 
-Qiita: [@hihumikan](https://qiita.com/hihumikan)
+<details class="transition-transform overflow-hidden">
+  <summary class="list-none inline-flex w-fit items-center rounded-md border border-gray-600 bg-gray-800 px-4 py-2 font-medium text-gray-100 shadow-sm transition-colors hover:cursor-pointer hover:bg-gray-700">
+    Show more
+  </summary>
+  <div class="p-4 border-2 border-gray-100 space-y-2">
+    <p>Telnet: <code>telnet.qqey.net</code></p>
+    <p>Qiita: <a href="https://qiita.com/hihumikan">@hihumikan</a></p>
+    <p>Zenn: <a href="https://zenn.dev/hihumikan">@hihumikan</a></p>
+    <p>Note: <a href="https://note.com/mikan_54951">@mikan_54951</a></p>
+    <p>Gist: <a href="https://gist.github.com/hihumikan">@hihumikan</a></p>
+  </div>
 
-Zenn: [@hihumikan](https://zenn.dev/hihumikan)
+</details>
 
 ## About Me
 
@@ -55,67 +65,9 @@ Moving forward, I aim to leverage the knowledge and implementation experience I 
 
 丙種危険物取扱者 / 第2種電気工事士 / 普通自動車第一種免許 (MT)/ フォトマスター検定3級 / 基本情報技術者試験 (FE)
 
-## Projects
-
-<div class="space-y-2">
-  <details class="transition-transform overflow-hidden">
-    <summary class="list-none inline-flex w-fit items-center rounded-md border border-gray-600 bg-gray-800 px-4 py-2 font-medium text-gray-100 shadow-sm transition-colors hover:cursor-pointer hover:bg-gray-700">
-    Show more
-    </summary>
-    <div class="p-4 border-2 border-gray-100 space-y-2">
-      <p><strong>Projects</strong></p>
-      <p>2020/09: Open Hack U 2020 Vol.3 / <a href="https://github.com/furukawaTakumi/Hack-U-vol3">SpeedMania</a></p>
-      <p>現在の通信速度によって、ストレージを通信のまま送るか、手で持って行ったほうが早いのかを判断するwebアプリケーション。</p>
-      <p>2021/03: 愛知工業大学 システム工学研究会 / <a href="https://github.com/SystemEngineeringTeam/hackathon_team_b">大学内講義レビューアプリ</a></p>
-      <p>大学の履修決めの際に、サークルや友達の伝手が無くとも情報を得ることが出来るwebアプリケーション。</p>
-      <p>2021/07: 技育CAMP vol5 2021 / <a href="https://github.com/SystemEngineeringTeam/geekcamp-vol5">ドーパミン放出アプリ</a></p>
-      <p>開発者が集中して開発出来るようにしたいという問題から、ドーパミンを分泌させるように誘導するwebアプリ。やる気が出ないときにアプリを開くことによって、やる気を増幅させてくれる。</p>
-      <p>2021/10: 愛工大祭「工科展」 / <a href="https://github.com/SystemEngineeringTeam/koukaten2021">シス研人数出る蔵</a> 最優秀賞</p>
-      <p>Webカメラで撮った部屋の写真から人体を検出し、部屋に滞在している人数を教えてくれるシステム。</p>
-      <p>2022/03: Open Hack U 2021 Vol.3 / <a href="https://github.com/SystemEngineeringTeam/HackU-2021-vol3">S.S.R.</a></p>
-      <p>オンライン勉強会は、主催者も受講者手間が掛かるのを解決したオンラインプラットフォーム。主催者は資料や配信URLなどの共有ができ、参加者は1つのウィンドウで資料・配信・チャットを見ることが出来る。</p>
-      <p>2022/06: 技育CAMP vol3 2022 / <a href="https://youtu.be/aXrKhL0umm0?si=VHtsiyn_r3D0u9Dg">人の入り見れる蔵</a> 努力賞</p>
-      <p>スマートフォンから送られてくるビーコン情報をRaspberry Piで受信し、部屋の入退室管理を行うもの。 また、現在誰が部屋にいるのか、Web上で確認することが出来る。</p>
-      <p>2022/10: 第3回ナノコン応用コンテスト / <a href="https://youtu.be/PrmSbCjV3Jw">調味料残量可視化できる蔵</a> ナノコン応用賞</p>
-      <p>キッチンにある調味料の残量を把握することができ、買い忘れや買い過ぎを防止に役立つ。</p>
-      <a href="https://github.com/SystemEngineeringTeam/set-web-ver-2021">set-web-ver-2021</a>
-      <p>シス研の2022年度のホームページを作成。</p>
-      <a href="https://github.com/usabilityTeam9/SMDGetTweet">愛工大MELTDOWN</a>
-      <p>愛工大の面白スポットを#AITMELTDOWN と位置情報付きでTwitterで共有することにより、それらをMAP上に表示してくれるWebアプリ。</p>
-      <a href="https://github.com/usabilityTeam9/kajiken_topping_gacha">kajiken-topping-gacha</a>
-      <p>某油そば店のトッピングを300円ガチャでランダムに教えてくれるWebアプリ。</p>
-      <a href="https://github.com/hihumikan/kitaQ-teamC">おとんとおかん</a>
-      <p>健康づくりを推進したい人のための食事・運動レビューサービス。おとんとおかんから健康のための知識を得て、日々の生活に役立てることが出来る。</p>
-      <a href="https://github.com/hihumikan/SlackBot_LINEStamp_Go">Slackbot-LINEstamp-go</a>
-      <p>SlackbotでLINEstampが使えるSlackbot。Slackに入れるだけ。スタンプを保持してくれる。</p>
-      <a href="https://github.com/hihumikan/iphonepokusuruyatu">iphonepokusuruyatu</a>
-      <p>YoutubeのTwitter共有をiPhoneと同じ形式にするAndroidアプリ。</p>
-      <a href="https://github.com/hihumikan/KachiDen">カチカチ君付き電卓</a>
-      <p>Java Swingで動くカチカチ君付きの電卓。電卓は実物の電卓と同じ挙動をする。</p>
-      <a href="https://github.com/hihumikan/hihumikan.github.io">PassWordGenerator</a>
-      <p>パスワード生成アプリクローン。 クライアントしか動いていないのでセキュアかつ、ソースコードを公開している。</p>
-      <a href="https://github.com/hihumikan/GeminiMan">GeminiMan</a>
-      <p>The Sniperを再現したUnity製ゲーム。もう一人の自分を倒せ！</p>
-      <a href="https://github.com/hihumikan/laravel_schedulerAPP">laravel_schedulerAPP</a>
-      <p>laravelで作成したスケジューラーアプリ。ユーザー管理、スケジュール管理、カレンダー表示、スケジュールのCRUDが可能。</p>
-      <a href="https://github.com/SystemEngineeringTeam/tenno-hai-front">tenno-hai-front</a>
-      <p>天皇杯(インフラ)の練習を行うためのWebアプリ。練習が様々あり、クリアごとにポイントがもらえる。</p>
-      <p class="pt-4"><strong>LT & Books & Events</strong></p>
-      <p>2018/11/11: <a href="https://www.flickr.com/photos/169243594@N04/46685172022/in/dateposted-public/">第31回愛知県高等学校文化連盟尾張支部写真展: 作品展示(奨励賞)</a></p>
-      <p>2022/04/05: <a href="https://careerselect-studygroup.connpass.com/event/242576/">キャリアセレクト:【聞き専も大歓迎】テーマ自由のLT会！オンラインでお気軽に参加しませんか？</a></p>
-      <p>2022/05/07: <a href="https://sysken.connpass.com/event/243739/">愛知工業大学システム工学研究会: 学生団体LT会(Online)</a></p>
-      <p>2022/06/25: <a href="https://talent.supporterz.jp/geekhaku/2022/">サポーターズ:技育博</a></p>
-      <p>2022/09/27: <a href="https://careerselect-studygroup.connpass.com/event/258392/">キャリアセレクト:【エンジニアを目指す学生限定】 サマーインターン成果発表会</a></p>
-      <p>2022/12/26: <a href="https://www.youtube.com/live/TvhWFQRtsYE?feature=share">愛知工業大学システム工学研究会: 2022冬のLT会(Online)</a></p>
-      <p>2023/05/28: <a href="https://gishohaku.dev/gishohaku8/circles/Tk2mFiVwcTvT0jQJJA0s">技術書同人誌博覧会: Syskenの技術本 様々な技術を詰め合わせてみました。(寄稿と校正)</a></p>
-    </div>
-  </details>
-</div>
-
 ## Server
 
 [死活状況](https://status.qqey.net/status/all)
-
 
 ### oracle1
 
@@ -187,10 +139,8 @@ qqey.net をリンクしてくださる場合は、[CC BY-ND 4.0](https://creati
 [png](/banner/png/Banner-icon1.png) / [svg](/banner/svg/Banner-icon1.svg)
 <img src="/banner/png/Banner-icon1.png" width="200" decoding="async" loading="lazy">
 
-
 [png](/banner/png/Banner1.png) / [svg](/banner/svg/Banner1.svg)
 <img src="/banner/png/Banner1.png" width="200" decoding="async" loading="lazy">
-
 
 [png](/banner/png/Banner2.png) / [svg](/banner/svg/Banner2.svg)
 <img src="/banner/png/Banner2.png" width="200" decoding="async" loading="lazy">
