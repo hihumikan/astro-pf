@@ -1,21 +1,8 @@
 ---
-import Logo from "../components/View/Logo.astro";
-import MainHead from "../components/Header/MainHead.astro";
+import Layout from "../layouts/Layout.astro";
+import { Content as AboutContent } from "../components/AboutContent.md";
 ---
 
-<!doctype html>
-<html lang="ja">
-  <head>
-    <MainHead />
-  </head>
-
-  <body>
-    <Logo />
-  </body>
-</html>
-
-<script>
-  setTimeout(() => {
-    window.location.href = "/about";
-  }, 4000);
-</script>
+<Layout showSplash>
+  <AboutContent />
+</Layout>
