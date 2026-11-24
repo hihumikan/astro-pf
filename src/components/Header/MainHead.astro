@@ -34,6 +34,8 @@ import "../../styles/global.css";
 <script is:inline>
   window.dataLayer = window.dataLayer || [];
   function gtag() {
+    // GA4 (gtag.js) は配列ではなく arguments オブジェクトの push が必須
+    // eslint-disable-next-line prefer-rest-params
     dataLayer.push(arguments);
   }
   gtag("js", new Date());
