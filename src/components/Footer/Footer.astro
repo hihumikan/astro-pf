@@ -102,7 +102,11 @@ import "@fontsource/kumbh-sans";
 </div>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-      var currentYear = new Date().getFullYear();
-      document.getElementById('currentYear').innerText = '© ' + currentYear + ' qqey.net'; });
+  document.addEventListener("DOMContentLoaded", function () {
+    const currentYearEl = document.getElementById("currentYear");
+    if (currentYearEl) {
+      const currentYear = new Date().getFullYear();
+      currentYearEl.innerText = "© " + currentYear + " qqey.net";
+    }
+  });
 </script>

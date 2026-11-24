@@ -71,54 +71,54 @@ Moving forward, I aim to leverage the knowledge and implementation experience I 
 
 ### oracle1
 
-12 GiB RAM</br>
-2 x Neoverse-N1</br>
- GNU/Linux 6.8.0-1013-oracle Ubuntu 24.04</br>
-OSA (Osaka, Japan)</br>
+12 GiB RAM<br />
+2 x Neoverse-N1<br />
+ GNU/Linux 6.8.0-1013-oracle Ubuntu 24.04<br />
+OSA (Osaka, Japan)<br />
 <http://oracle1.qqey.net>
 
 ### oracle2
 
-12 GiB RAM</br>
-2 x Neoverse-N1</br>
- GNU/Linux 6.8.0-1013-oracle Ubuntu 24.04</br>
-OSA (Osaka, Japan)</br>
+12 GiB RAM<br />
+2 x Neoverse-N1<br />
+ GNU/Linux 6.8.0-1013-oracle Ubuntu 24.04<br />
+OSA (Osaka, Japan)<br />
 <http://oracle2.qqey.net>
 
 ### gcp
 
-0.95 GiB RAM</br>
-2 x Intel(R) Xeon(R) CPU @ 2.20GHz</br>
-GNU/Linux 6.1.0-27-cloud-amd64 Debian 12.8</br>
-IA (Iowa, US)</br>
+0.95 GiB RAM<br />
+2 x Intel(R) Xeon(R) CPU @ 2.20GHz<br />
+GNU/Linux 6.1.0-27-cloud-amd64 Debian 12.8<br />
+IA (Iowa, US)<br />
 <https://gcp.qqey.net>
 
 ### raspi(Dev)
 
-Raspberry Pi 4 (UD-RP4B4)</br>
-3.7 GiB RAM</br>
-GNU/Linux 5.15.0-1033-raspi Ubuntu 22.04</br>
-NGO (Nagoya, Japan)</br>
+Raspberry Pi 4 (UD-RP4B4)<br />
+3.7 GiB RAM<br />
+GNU/Linux 5.15.0-1033-raspi Ubuntu 22.04<br />
+NGO (Nagoya, Japan)<br />
 <https://raspi.qqey.net>
 
 ### ponkan(Dev)
 
-ASRock DeskMini A300</br>
-14 GiB RAM</br>
-4 x AMD Ryzen 3 3200G with Radeon Vega Graphics</br>
-GNU/Linux 6.2.16-3-pve Debian 12.0</br>
-Proxmox VE 8.1</br>
-NGO (Nagoya, Japan)</br>
-<https://ponkan.qqey.net></br>
+ASRock DeskMini A300<br />
+14 GiB RAM<br />
+4 x AMD Ryzen 3 3200G with Radeon Vega Graphics<br />
+GNU/Linux 6.2.16-3-pve Debian 12.0<br />
+Proxmox VE 8.1<br />
+NGO (Nagoya, Japan)<br />
+<https://ponkan.qqey.net><br />
 
 ### tunonozomi(Dev)
 
-16 GiB RAM</br>
-8 x AMD FX(tm)-8150 Eight-Core Processor</br>
-GNU/Linux 6.2.16-3-pve Debian 12.0</br>
-Proxmox VE 8.1</br>
-NGO (Nagoya, Japan)</br>
-<https://tunonozomi.qqey.net></br>
+16 GiB RAM<br />
+8 x AMD FX(tm)-8150 Eight-Core Processor<br />
+GNU/Linux 6.2.16-3-pve Debian 12.0<br />
+Proxmox VE 8.1<br />
+NGO (Nagoya, Japan)<br />
+<https://tunonozomi.qqey.net><br />
 
 ### メトリックス
 
