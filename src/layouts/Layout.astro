@@ -3,11 +3,18 @@ import Footer from "../components/Footer/Footer.astro";
 import Header from "../components/Header/Header.astro";
 import MainHead from "../components/Header/MainHead.astro";
 import Fade from "../components/View/Fade.astro";
+import Logo from "../components/View/Logo.astro";
 // github-markdown-css
 import "../styles/github-markdown.css";
 import "normalize.css";
 
 import "@fontsource/noto-sans-jp";
+
+interface Props {
+  showSplash?: boolean;
+}
+
+const { showSplash = false } = Astro.props;
 ---
 
 <!doctype html>
@@ -15,21 +22,141 @@ import "@fontsource/noto-sans-jp";
   <head>
     <MainHead />
   </head>
-  <body class="fade">
-    <Fade />
+  <body class={showSplash ? undefined : "fade"}>
+    {!showSplash && <Fade />}
+    {
+      showSplash && (
+        <>
+          <input
+            type="checkbox"
+            id="splash-skip"
+            class="sr-only"
+            aria-label="イントロアニメーションをスキップ"
+          />
+          <label for="splash-skip" class="splash-overlay" aria-hidden="true">
+            <Logo />
+          </label>
+        </>
+      )
+    }
     <Header />
-    <div
-      class="relative max-w-2xl mx-auto md:max-w-3xl min-w-0 break-words w-full rounded-md mt-14"
-    >
-      <div class="p-5 text-gray-700 leading-normal pb-10">
-        <div
-          class="markdown-body mb-5"
-          style="font-family: 'Noto Sans JP', YuGothicM, 'ヒラギノ角ゴ ProN W3', 'Lucida Grande', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, Verdana, 'ＭＳ Ｐゴシック', sans-serif;"
-        >
-          <slot />
+    <div class={showSplash ? "splash-reveal" : undefined}>
+      <div
+        class="relative max-w-2xl mx-auto md:max-w-3xl min-w-0 break-words w-full rounded-md pt-14"
+      >
+        <div class="p-5 text-gray-700 leading-normal pb-10">
+          <div
+            class="markdown-body mb-5"
+            style="font-family: 'Noto Sans JP', YuGothicM, 'ヒラギノ角ゴ ProN W3', 'Lucida Grande', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, Verdana, 'ＭＳ Ｐゴシック', sans-serif;"
+          >
+            <slot />
+          </div>
         </div>
       </div>
+      <Footer />
     </div>
-    <Footer />
   </body>
 </html>
+
+<style>
+  /* スプラッシュ画面全体が 1.8s 後に 1.0s かけてもあっと消える */
+  @keyframes splash-dissolve {
+    0% {
+      opacity: 1;
+      visibility: visible;
+    }
+    99% {
+      opacity: 0;
+      visibility: visible;
+    }
+    100% {
+      opacity: 0;
+      visibility: hidden;
+      pointer-events: none;
+    }
+  }
+
+  /* 黒背景の内側（ロゴ含む）をぼかしながら拡大させ、画面端のチラつきや横スクロールを防止 */
+  @keyframes splash-inner-dissolve {
+    0% {
+      filter: blur(0px);
+      transform: scale(1);
+    }
+    100% {
+      filter: blur(16px);
+      transform: scale(1.06);
+    }
+  }
+
+  /* About コンテンツが 1.7s 後から 1.1s かけてもあっと浮かび上がる */
+  @keyframes content-emerge {
+    0% {
+      opacity: 0;
+      filter: blur(10px);
+      transform: scale(0.985);
+    }
+    100% {
+      opacity: 1;
+      filter: none;
+      transform: none;
+    }
+  }
+
+  .splash-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: block;
+    overflow: hidden;
+    animation: splash-dissolve 1s cubic-bezier(0.4, 0, 0.2, 1) 1.8s forwards;
+  }
+
+  .splash-overlay > :global(*) {
+    animation: splash-inner-dissolve 1s cubic-bezier(0.4, 0, 0.2, 1) 1.8s
+      forwards;
+  }
+
+  .splash-reveal {
+    animation: content-emerge 1.1s cubic-bezier(0.22, 1, 0.36, 1) 1.7s both;
+  }
+
+  /* 画面クリックで純 CSS のまま即座にもあっと切り替え */
+  #splash-skip:checked ~ .splash-overlay {
+    animation: none;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition:
+      opacity 0.45s ease,
+      visibility 0.45s ease;
+  }
+
+  #splash-skip:checked ~ .splash-overlay > :global(*) {
+    animation: none;
+    filter: blur(16px);
+    transform: scale(1.06);
+    transition:
+      filter 0.45s ease,
+      transform 0.45s ease;
+  }
+
+  #splash-skip:checked ~ .splash-reveal {
+    animation: none;
+    opacity: 1;
+    filter: none;
+    transform: none;
+    transition:
+      opacity 0.45s ease,
+      filter 0.45s ease;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .splash-overlay {
+      display: none;
+    }
+
+    .splash-reveal {
+      animation: none;
+    }
+  }
+</style>

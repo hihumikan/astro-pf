@@ -1,8 +1,3 @@
----
-layout: ../layouts/Layout.astro
-
----
-
 ## About
 
 <img src="https://avatars.githubusercontent.com/u/26848713?v=4" width="200" height="200" alt="profile_image" decoding="async" loading="lazy">
