@@ -1,29 +1,32 @@
 import satori from "satori";
 import sharp from "sharp";
 
-export async function getOgImage(text: string) {
+export async function getOgImage(_text: string) {
   const fontData = (await getFontData()) as ArrayBuffer;
   const svg = await satori(
-<div
-  style={{
-    height: '100%',
-    width: '100%',
-    display: 'flex',
-    flexDirection: 'column',
-    alignItems: 'center',
-    justifyContent: 'center',
-    backgroundColor: '#fff',
-    fontSize: 32,
-    fontWeight: 600,
-  }}
->
-  <div style={{ marginTop: 40 }}>Hello, World</div>
-</div>
-
-
-
-
-,
+    {
+      type: "div",
+      props: {
+        style: {
+          height: "100%",
+          width: "100%",
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          justifyContent: "center",
+          backgroundColor: "#fff",
+          fontSize: 32,
+          fontWeight: 600,
+        },
+        children: {
+          type: "div",
+          props: {
+            style: { marginTop: 40 },
+            children: "Hello, World",
+          },
+        },
+      },
+    } as Parameters<typeof satori>[0],
     {
       width: 1200,
       height: 630,

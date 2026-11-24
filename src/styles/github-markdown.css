@@ -1,4 +1,5 @@
 /* https://github.com/sindresorhus/github-markdown-css */
+@reference "./global.css";
 .markdown-body ul {
   @apply list-disc;
 }

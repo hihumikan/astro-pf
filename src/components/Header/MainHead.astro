@@ -1,42 +1,42 @@
 ---
-const canonicalURL = new URL(Astro.url.pathname, "https://qqey.net");
+import "../../styles/global.css";
 ---
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content={Astro.generator} />
-  <title>qqey.net</title>
-  <!-- OGP -->
-  <meta property="og:type" content="profile" />
-  <meta property="og:title" content="qqey.net" />
-  <meta property="og:url" content="https://www.qqey.net/" />
-  <meta property="og:image" content="https://www.qqey.net/ogp.png" />
-  <meta property="og:locale" content="ja_JP" />
-  <meta
-    property="og:description"
-    content="qqey.net is the official website of hihumikan. We provide a wide range of information on various topics. Stay tuned!"
-  />
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="generator" content={Astro.generator} />
+<title>qqey.net</title>
+<!-- OGP -->
+<meta property="og:type" content="profile" />
+<meta property="og:title" content="qqey.net" />
+<meta property="og:url" content="https://www.qqey.net/" />
+<meta property="og:image" content="https://www.qqey.net/ogp.png" />
+<meta property="og:locale" content="ja_JP" />
+<meta
+  property="og:description"
+  content="qqey.net is the official website of hihumikan. We provide a wide range of information on various topics. Stay tuned!"
+/>
 
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@mikan_54951" />
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@mikan_54951" />
 
-  <!-- Icon -->
-  <link rel="shortcut icon" href="" type="image/vnd.microsoft.icon" />
-  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+<!-- Icon -->
+<link rel="shortcut icon" href="" type="image/vnd.microsoft.icon" />
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RQCG8MJ8ZG"
-  ></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag("js", new Date());
+<!-- Google tag (gtag.js) -->
+<script
+  is:inline
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=G-RQCG8MJ8ZG"></script>
+<script is:inline>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
 
-    gtag("config", "G-RQCG8MJ8ZG");
-  </script>
-</head>
+  gtag("config", "G-RQCG8MJ8ZG");
+</script>
